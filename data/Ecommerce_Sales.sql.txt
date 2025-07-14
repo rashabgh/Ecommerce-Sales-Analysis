@@ -1,0 +1,111 @@
+create database ecommerce_analysis;
+use ecommerce_analysis;
+
+
+create Table 
+create table Ecommerce_Sales (Order_ID int,CustomerName varchar(255),Country varchar(255),OrderDate date,
+ProductName varchar(255),Category varchar(255),UnitPrice decimal(10,2),Quantity int,Total decimal(10,2),Profit decimal(10,2),Currency varchar(10)
+);
+
+
+
+--total number of orders
+--total orders =966
+
+select count(distinct Order_ID) AS total_orders
+from Ecommerce_Sales;
+
+
+
+
+-- total revenue
+--total revenue='1518738.90SR'
+
+select sum(Total) AS total_revenue
+from Ecommerce_Sales;
+
+
+
+
+-- averge profit
+--averge profit='304.967641 SR'
+
+select avg(Profit) AS averge_profit
+from Ecommerce_Sales;
+
+
+
+
+--top five selling products
+-- Top 5 Selling Products
+-- 1. Tablet = 172
+-- 2. Travel guide = 154
+-- 3. Cookbook = 154
+-- 4. Novel = 150
+-- 5. Children book = 145
+
+SELECT ProductName, SUM(Quantity) AS total_sold
+FROM Ecommerce_Sales
+GROUP BY ProductName
+ORDER BY total_sold DESC
+LIMIT 5;
+
+
+
+
+-- Total Revenue by Country
+-- 1. Kuwait = 271,246.36
+-- 2. Bahrain = 267,886.32
+-- 3. Saudi Arabia = 261,542.58
+-- 4. Oman = 259,471.98
+-- 5. UAE = 234,248.53
+-- 6. Qatar = 224,343.13
+
+SELECT Country, SUM(Total) AS total_revenue
+FROM Ecommerce_Sales
+GROUP BY Country
+ORDER BY total_revenue DESC;
+
+
+
+
+-- Total Profit by Category
+-- 1. Books = 73,653.34
+-- 2. Electronics = 69,392.10
+-- 3. Fashion = 58,391.03
+-- 4. Beauty = 53,804.26
+-- 5. Home = 48,507.04
+
+SELECT Category, SUM(Profit) AS total_profit
+FROM Ecommerce_Sales
+GROUP BY Category
+ORDER BY total_profit DESC;
+
+
+
+
+
+-- Orders per Month
+-- 1. Jan = 70
+-- 2. Feb = 73
+-- 3. Mar = 82
+-- 4. Apr = 89
+-- 5. May = 91
+-- 6. Jun = 80
+-- 7. Jul = 96
+-- 8. Aug = 90
+-- 9. Sep = 89
+-- 10. Oct = 85
+-- 11. Nov = 79
+-- 12. Dec = 72
+
+SELECT 
+    MONTH(OrderDate) AS order_month, 
+    COUNT(DISTINCT Order_ID) AS total_orders
+FROM Ecommerce_Sales
+GROUP BY order_month
+ORDER BY order_month;
+
+
+
+

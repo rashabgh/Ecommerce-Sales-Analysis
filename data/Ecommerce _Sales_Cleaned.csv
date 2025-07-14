@@ -1,0 +1,997 @@
+OrderID,CustomerName,Country,OrderDate,ProductName,Category,UnitPrice,Quantity,Total, Profit,Currency
+1,Rebekah Smith,Kuwait,3/11/2025,Children Book,Books,50,5,250,50,SR
+4,Unkown,Qatar,8/7/2024,Biography,Books,147.58,5,737.9,147.58,SR
+6,Jeffrey Chen,Saudi Arabia,9/15/2024,Dining Table,Home,188.76,3,566.28,113.256,SR
+7,Angela Shaw,UAE,6/6/2025,Novel,Electronics,322.08,4,1288.32,257.664,SR
+9,Melinda Palmer,Saudi Arabia,1/20/2025,Cookbook,Books,676.3,4,2705.2,541.04,SR
+10,Angie Stanley,Oman,7/18/2024,Sneakers,Fashion,540.11,5,2700.55,540.11,SR
+11,Jeffrey Lewis,Saudi Arabia,8/6/2024,Smartphone,Electronics,124.54,4,498.16,99.632,SR
+12,James Hunt,Bahrain,5/18/2025,Chair,Home,731.91,4,2927.64,585.528,SR
+13,Jeffrey Hughes,Bahrain,7/15/2024,T-shirt,Fashion,780.33,3,2340.99,468.198,SR
+14,Robert Johnson,Bahrain,7/11/2024,Biography,Books,28.18,2,56.36,11.272,SR
+15,John Ward,Oman,9/17/2024,Bag,Fashion,136.2,5,681,136.2,SR
+16,Madison Wood,UAE,3/13/2025,Travel Guide,Books,997.97,5,4989.85,997.97,SR
+17,Michael Orozco,UAE,3/13/2025,Hair Dryer,Beauty,883.24,5,4416.2,883.24,SR
+18,Carolyn Morris,Bahrain,4/16/2025,Headphones,Electronics,592.93,2,1185.86,237.172,SR
+19,Richard Harris,UAE,11/9/2024,Tablet,Electronics,297.69,2,595.38,119.076,SR
+20,Jennifer Miller,UAE,2/6/2025,Headphones,Electronics,476.65,1,476.65,95.33,SR
+21,Norma Huang,Qatar,5/20/2025,Smartphone,Electronics,415.98,1,415.98,83.196,SR
+22,Melanie Cruz,Bahrain,1/5/2025,Children Book,Books,930.13,5,4650.65,930.13,SR
+23,Steven Vargas,Oman,10/14/2024,Bag,Fashion,287.7,3,863.1,172.62,SR
+24,Seth Oconnell,Oman,3/21/2025,Chair,Home,70.57,2,141.14,28.228,SR
+25,William Pham,Qatar,9/2/2024,Bag,Fashion,175.63,2,351.26,70.252,SR
+26,Marvin Taylor,Kuwait,8/10/2024,Shampoo,Beauty,562.51,3,1687.53,337.506,SR
+27,Cheryl Alvarado,Saudi Arabia,5/30/2025,Sneakers,Fashion,756.92,1,756.92,151.384,SR
+28,Andrew George,Saudi Arabia,9/19/2024,Sofa,Home,865.72,4,3462.88,692.576,SR
+29,Lori Riddle,Kuwait,4/1/2025,Headphones,Electronics,205.72,1,205.72,41.144,SR
+30,Elaine Brandt,Saudi Arabia,5/10/2025,Smartphone,Electronics,706.19,2,1412.38,282.476,SR
+31,Robert Hill,Saudi Arabia,7/4/2024,Tablet,Electronics,471.63,5,2358.15,471.63,SR
+32,Eric Dunn,Kuwait,10/24/2024,Cookbook,Books,989.64,5,4948.2,989.64,SR
+33,Tracy Robles DVM,Qatar,6/20/2025,Jeans,Fashion,521.57,2,1043.14,208.628,SR
+34,Mary Jackson,Oman,10/6/2024,Smartphone,Electronics,978.44,3,2935.32,587.064,SR
+35,Sara Schultz,UAE,5/9/2025,Hair Dryer,Beauty,899.5,5,4497.5,899.5,SR
+36,Shelia Hill,Qatar,8/8/2024,Travel Guide,Books,771.38,4,3085.52,617.104,SR
+37,Rachel Thompson,Bahrain,2/27/2025,Shampoo,Beauty,482.31,3,1446.93,289.386,SR
+38,Jennifer Zuniga,Kuwait,9/23/2024,Children Book,Books,148.31,2,296.62,59.324,SR
+39,Loretta Whitehead,Saudi Arabia,3/5/2025,Perfume,Beauty,217.19,1,217.19,43.438,SR
+40,Joel Anderson,Saudi Arabia,4/17/2025,Children Book,Books,663.37,2,1326.74,265.348,SR
+41,Charles Campos,Bahrain,7/31/2024,Face Cream,Beauty,34.43,3,103.29,20.658,SR
+42,Melissa Barton,Oman,1/27/2025,Lipstick,Beauty,486.75,5,2433.75,486.75,SR
+43,Laura Lucero,Qatar,8/24/2024,Dress,Fashion,888.84,2,1777.68,355.536,SR
+44,Tara Horne,Oman,4/22/2025,Laptop,Electronics,231.57,1,231.57,46.314,SR
+45,Jennifer Mccullough,Qatar,11/14/2024,Sofa,Home,698.59,1,698.59,139.718,SR
+46,Tony Velasquez,Bahrain,5/6/2025,Hair Dryer,Beauty,913.07,4,3652.28,730.456,SR
+47,Samantha Jones,Bahrain,9/16/2024,Sofa,Home,510.28,5,2551.4,510.28,SR
+48,Gabrielle Mullen,Qatar,1/27/2025,Sneakers,Fashion,187.11,5,935.55,187.11,SR
+49,Eric Delgado,UAE,7/7/2024,Hair Dryer,Beauty,516.19,5,2580.95,516.19,SR
+50,Renee Anderson,UAE,3/26/2025,Travel Guide,Books,402.05,3,1206.15,241.23,SR
+51,Gregory Anderson,Oman,6/25/2025,Lamp,Home,581.94,4,2327.76,465.552,SR
+52,Kathryn Bryant,Saudi Arabia,5/23/2025,Dress,Fashion,724.34,3,2173.02,434.604,SR
+53,Helen Harvey,Saudi Arabia,7/14/2024,Perfume,Beauty,151.82,2,303.64,60.728,SR
+54,Nancy Wilson,Saudi Arabia,3/5/2025,Dining Table,Home,105.37,1,105.37,21.074,SR
+55,Marvin Nelson,Qatar,9/25/2024,Novel,Books,737.1,1,737.1,147.42,SR
+56,Stephanie Thomas,Kuwait,4/15/2025,Lipstick,Beauty,650.64,3,1951.92,390.384,SR
+57,Holly Williams,Oman,2/21/2025,Hair Dryer,Beauty,192.4,1,192.4,38.48,SR
+58,Sarah Hurst,Bahrain,11/14/2024,Dress,Fashion,376.31,5,1881.55,376.31,SR
+59,Molly Green,Qatar,8/18/2024,Laptop,Electronics,358.53,5,1792.65,358.53,SR
+60,Stephanie Ortiz,Oman,4/1/2025,Perfume,Beauty,167.01,4,668.04,133.608,SR
+61,James Lopez,UAE,9/27/2024,Lamp,Home,867.28,3,2601.84,520.368,SR
+62,Carol Fowler,UAE,10/24/2024,Lipstick,Beauty,686.03,1,686.03,137.206,SR
+63,Erin Hayes,Kuwait,8/6/2024,Camera,Electronics,11.5,1,11.5,2.3,SR
+64,William Bridges,UAE,11/19/2024,Dress,Fashion,625.06,2,1250.12,250.024,SR
+65,Scott Logan,Oman,4/24/2025,Dress,Fashion,38.74,4,154.96,30.992,SR
+66,Kelly Proctor,Saudi Arabia,6/21/2025,Shampoo,Beauty,229.62,4,918.48,183.696,SR
+67,Dawn Jackson,Saudi Arabia,1/10/2025,Hair Dryer,Beauty,524.21,4,2096.84,419.368,SR
+68,Julie Gray,Kuwait,11/3/2024,Lamp,Home,259.35,4,1037.4,207.48,SR
+69,Paul Harmon,Oman,11/3/2024,Tablet,Electronics,561.96,4,2247.84,449.568,SR
+70,Leonard Norris,Bahrain,6/22/2025,Dining Table,Home,607.68,5,3038.4,607.68,SR
+71,Chris Weeks,Qatar,3/1/2025,Novel,Books,938.31,4,3753.24,750.648,SR
+72,Brian Smith,Kuwait,7/8/2024,Lipstick,Beauty,413.84,5,2069.2,413.84,SR
+73,Amanda Garcia,UAE,2/18/2025,Perfume,Beauty,357.57,5,1787.85,357.57,SR
+74,Derek Davis,Kuwait,7/20/2024,Lipstick,Beauty,207.26,4,829.04,165.808,SR
+75,Raymond Gamble,UAE,4/6/2025,Shampoo,Beauty,734.09,2,1468.18,293.636,SR
+76,James Singleton,Oman,9/28/2024,Headphones,Electronics,226.27,3,678.81,135.762,SR
+77,Melissa Austin,Saudi Arabia,12/17/2024,Sneakers,Fashion,600.06,4,2400.24,480.048,SR
+78,Kyle Myers,Saudi Arabia,7/19/2024,Laptop,Electronics,564.58,1,564.58,112.916,SR
+79,Stephen Roberts,Saudi Arabia,12/22/2024,Cookbook,Books,210.29,3,630.87,126.174,SR
+80,Joel Browning,Qatar,1/14/2025,Laptop,Electronics,993.67,1,993.67,198.734,SR
+81,Stephanie King,Oman,5/9/2025,Curtains,Home,368.25,4,1473,294.6,SR
+82,Paula Farmer,Qatar,11/1/2024,Biography,Books,718.17,5,3590.85,718.17,SR
+83,Robert Thompson,Qatar,2/24/2025,Dress,Fashion,787.64,3,2362.92,472.584,SR
+84,Kara Wright,Qatar,9/11/2024,Biography,Books,991.39,3,2974.17,594.834,SR
+85,Annette Flores,Bahrain,9/5/2024,Children Book,Books,704.61,4,2818.44,563.688,SR
+86,Susan Powell,Bahrain,10/31/2024,Headphones,Electronics,656.64,1,656.64,131.328,SR
+87,Alison Stone,Qatar,4/15/2025,Curtains,Home,149.3,2,298.6,59.72,SR
+88,Michael Bell,Kuwait,4/29/2025,Lipstick,Beauty,638.29,3,1914.87,382.974,SR
+89,Natalie Davis,UAE,4/9/2025,Travel Guide,Books,826.25,1,826.25,165.25,SR
+90,Joseph Robinson,Kuwait,3/8/2025,T-shirt,Fashion,760.47,4,3041.88,608.376,SR
+91,Whitney Dawson,Oman,4/24/2025,Lipstick,Beauty,543.66,2,1087.32,217.464,SR
+92,Ashlee Bailey,Saudi Arabia,9/19/2024,Children Book,Books,294.6,2,589.2,117.84,SR
+93,Matthew Brandt,Bahrain,6/6/2025,Cookbook,Books,503.2,1,503.2,100.64,SR
+94,Jonathan Mills,Saudi Arabia,10/13/2024,Lipstick,Beauty,598.83,2,1197.66,239.532,SR
+95,Courtney Miller,Kuwait,2/20/2025,Bag,Fashion,794.44,4,3177.76,635.552,SR
+96,Sarah Lewis,Oman,12/12/2024,Face Cream,Beauty,196.76,5,983.8,196.76,SR
+97,Jennifer Wright,Bahrain,2/2/2025,Smartphone,Electronics,525.49,4,2101.96,420.392,SR
+98,Sean Ramos,Bahrain,6/10/2025,Face Cream,Beauty,135.29,1,135.29,27.058,SR
+99,Steven Jacobs,Qatar,3/8/2025,Cookbook,Books,501.94,3,1505.82,301.164,SR
+100,Krista Ellis,Saudi Arabia,1/5/2025,Perfume,Beauty,85.17,3,255.51,51.102,SR
+101,Heather Carpenter,Bahrain,11/8/2024,Smartphone,Electronics,559.95,1,559.95,111.99,SR
+102,Mr. John Johnson,UAE,3/30/2025,Lamp,Home,127.37,3,382.11,76.422,SR
+103,Jason Conway,Bahrain,3/14/2025,Curtains,Home,23.3,2,46.6,9.32,SR
+104,Karen Guzman,Saudi Arabia,3/6/2025,Tablet,Electronics,926.45,5,4632.25,926.45,SR
+105,Larry Schneider,Kuwait,4/18/2025,Dining Table,Home,629.57,1,629.57,125.914,SR
+106,David Hunt,Saudi Arabia,4/12/2025,Sofa,Home,994.95,2,1989.9,397.98,SR
+107,Thomas Ross,Bahrain,2/25/2025,Headphones,Electronics,931.9,4,3727.6,745.52,SR
+108,Michael Hayes,Kuwait,4/4/2025,Cookbook,Books,818.51,5,4092.55,818.51,SR
+109,Katie Buckley DVM,Saudi Arabia,5/26/2025,Camera,Electronics,868.13,4,3472.52,694.504,SR
+110,Patrick Harris,Bahrain,8/9/2024,Tablet,Electronics,550.89,5,2754.45,550.89,SR
+111,Austin Rush,Bahrain,4/21/2025,Shampoo,Beauty,902.4,4,3609.6,721.92,SR
+112,Justin Ward,Bahrain,9/9/2024,Jeans,Fashion,984.61,5,4923.05,984.61,SR
+113,Andrew Jacobson,Oman,7/28/2024,Camera,Electronics,881.26,5,4406.3,881.26,SR
+114,Stephanie Tucker,Bahrain,12/16/2024,Shampoo,Beauty,318.74,2,637.48,127.496,SR
+115,Daniel Harris,Qatar,5/26/2025,Bag,Fashion,313.93,4,1255.72,251.144,SR
+116,April Gonzalez,Saudi Arabia,8/16/2024,Laptop,Electronics,934.37,2,1868.74,373.748,SR
+117,Taylor Wright,Oman,11/3/2024,Curtains,Home,797.5,3,2392.5,478.5,SR
+118,Hector Martinez,Oman,2/3/2025,Camera,Electronics,304.49,4,1217.96,243.592,SR
+119,Adam Odom,Qatar,2/19/2025,Sofa,Home,823.73,3,2471.19,494.238,SR
+120,Neil Bryan,Saudi Arabia,8/9/2024,Camera,Electronics,639.79,4,2559.16,511.832,SR
+121,Colton Jones,Oman,5/2/2025,Laptop,Electronics,301.44,5,1507.2,301.44,SR
+122,Jasmine Johnson,Kuwait,9/12/2024,Cookbook,Books,777.61,1,777.61,155.522,SR
+123,Ronald Farrell,UAE,1/29/2025,Hair Dryer,Beauty,548.52,3,1645.56,329.112,SR
+124,Jack Freeman,UAE,12/7/2024,Curtains,Home,452.82,1,452.82,90.564,SR
+125,Tiffany Hawkins,Qatar,8/6/2024,Lamp,Home,209.95,1,209.95,41.99,SR
+126,David Reed,Oman,2/6/2025,Lamp,Home,462.28,1,462.28,92.456,SR
+127,Brian Washington,Saudi Arabia,11/30/2024,Headphones,Electronics,198.92,3,596.76,119.352,SR
+128,Kevin Parsons,Qatar,9/23/2024,Camera,Electronics,636.63,1,636.63,127.326,SR
+129,Patrick Carney,Oman,8/13/2024,Chair,Home,487.15,3,1461.45,292.29,SR
+130,Jennifer Greene,Bahrain,3/8/2025,Bag,Fashion,215.6,4,862.4,172.48,SR
+131,Amy Manning,Qatar,2/27/2025,Cookbook,Books,330.54,4,1322.16,264.432,SR
+132,Kelly Rivera,Oman,2/26/2025,Children Book,Books,315.4,1,315.4,63.08,SR
+133,Christopher Richards,UAE,9/10/2024,Perfume,Beauty,57.21,3,171.63,34.326,SR
+134,Monica Coleman,Saudi Arabia,4/6/2025,Travel Guide,Books,987.99,1,987.99,197.598,SR
+135,Kara Shepherd,Qatar,1/23/2025,Chair,Home,942.13,5,4710.65,942.13,SR
+136,Holly Abbott,Bahrain,11/1/2024,Shampoo,Beauty,281.2,5,1406,281.2,SR
+137,Michael Bridges,Kuwait,6/4/2025,Dining Table,Home,695.85,4,2783.4,556.68,SR
+138,Mark Clark,Qatar,8/3/2024,Headphones,Electronics,856.33,2,1712.66,342.532,SR
+139,Steve Kim,Qatar,2/5/2025,Biography,Books,365.87,4,1463.48,292.696,SR
+140,Andrew Murphy,UAE,11/3/2024,Face Cream,Beauty,404.19,5,2020.95,404.19,SR
+141,Juan Munoz,Bahrain,5/11/2025,Curtains,Home,823.66,3,2470.98,494.196,SR
+142,Leonard Mccullough,Kuwait,7/26/2024,Novel,Books,461.17,2,922.34,184.468,SR
+143,Patricia Salazar,Bahrain,10/10/2024,Laptop,Electronics,16.21,4,64.84,12.968,SR
+144,Jessica George,Saudi Arabia,4/27/2025,Perfume,Beauty,589.02,1,589.02,117.804,SR
+145,Jeffrey Welch,Qatar,8/26/2024,Chair,Home,865.62,5,4328.1,865.62,SR
+146,Carolyn Martinez,Bahrain,8/24/2024,Novel,Books,202.16,4,808.64,161.728,SR
+147,Michelle Allen,Qatar,5/2/2025,Sofa,Home,920.53,4,3682.12,736.424,SR
+148,Christina Velazquez,Bahrain,5/28/2025,Smartphone,Electronics,976.28,1,976.28,195.256,SR
+149,Tyler Bartlett,UAE,10/30/2024,Travel Guide,Books,348.94,3,1046.82,209.364,SR
+150,Robert Davis,Bahrain,3/18/2025,Cookbook,Books,544.72,1,544.72,108.944,SR
+151,Lisa Le,Saudi Arabia,9/4/2024,Children Book,Books,886.45,3,2659.35,531.87,SR
+152,James Pham,Bahrain,11/11/2024,Tablet,Electronics,708.62,3,2125.86,425.172,SR
+153,James Esparza,Oman,8/31/2024,Travel Guide,Books,335.19,2,670.38,134.076,SR
+154,Kari Smith,UAE,9/23/2024,Face Cream,Beauty,11.01,2,22.02,4.404,SR
+155,Robert Johnson,Saudi Arabia,12/14/2024,Children Book,Books,533.45,1,533.45,106.69,SR
+156,Mark Joseph,UAE,10/15/2024,Smartphone,Electronics,742.78,4,2971.12,594.224,SR
+157,Ashley Castaneda,Oman,10/20/2024,Sofa,Home,850.89,3,2552.67,510.534,SR
+158,Pamela Anderson,Oman,8/6/2024,T-shirt,Fashion,621.95,3,1865.85,373.17,SR
+159,Shirley George,Oman,6/2/2025,Perfume,Beauty,119.96,4,479.84,95.968,SR
+160,Jesus Jimenez,UAE,11/3/2024,Lamp,Home,456.06,3,1368.18,273.636,SR
+161,Patrick West,Saudi Arabia,7/10/2024,Bag,Fashion,741.69,2,1483.38,296.676,SR
+162,Elizabeth Moore,Bahrain,6/25/2025,Chair,Home,85.9,3,257.7,51.54,SR
+163,Megan Castillo,Saudi Arabia,4/17/2025,Perfume,Beauty,911.36,2,1822.72,364.544,SR
+164,Robert Mckenzie,UAE,11/2/2024,Dining Table,Home,411.14,2,822.28,164.456,SR
+165,Ashley Blackburn,Bahrain,10/20/2024,Dress,Fashion,99.64,4,398.56,79.712,SR
+166,Allison Fields,Saudi Arabia,9/11/2024,Perfume,Beauty,756.83,3,2270.49,454.098,SR
+167,Connie Gilbert,UAE,12/16/2024,Biography,Books,62.64,4,250.56,50.112,SR
+168,Daniel Jensen,Bahrain,7/6/2024,Chair,Home,838.35,3,2515.05,503.01,SR
+169,Justin Cardenas,Saudi Arabia,10/20/2024,Tablet,Electronics,820.77,3,2462.31,492.462,SR
+170,William Lang,Qatar,2/4/2025,Sofa,Home,487.24,1,487.24,97.448,SR
+171,Darrell Hernandez,Kuwait,2/10/2025,Novel,Books,87.61,4,350.44,70.088,SR
+172,Andrea Flores,Oman,11/6/2024,Perfume,Beauty,730.85,3,2192.55,438.51,SR
+173,Thomas Cook,UAE,5/18/2025,Perfume,Beauty,580.53,3,1741.59,348.318,SR
+174,Gary Scott DVM,Qatar,8/6/2024,Lipstick,Beauty,469.51,3,1408.53,281.706,SR
+175,Christopher Rasmussen,UAE,10/18/2024,Curtains,Home,844.61,1,844.61,168.922,SR
+176,Joseph Parker,Qatar,3/19/2025,Jeans,Fashion,531.33,1,531.33,106.266,SR
+177,Janet Spencer,UAE,5/17/2025,T-shirt,Fashion,812.07,5,4060.35,812.07,SR
+178,Lance Davis,Kuwait,5/26/2025,Shampoo,Beauty,37.51,3,112.53,22.506,SR
+179,Jessica Parker,UAE,4/10/2025,Sofa,Home,418.36,4,1673.44,334.688,SR
+180,Renee Bray,Saudi Arabia,11/15/2024,Curtains,Home,286.02,4,1144.08,228.816,SR
+181,Katie Weber,Kuwait,10/6/2024,Novel,Books,934.87,1,934.87,186.974,SR
+182,Marcus White,Oman,8/9/2024,Travel Guide,Books,755.11,5,3775.55,755.11,SR
+183,Donald Williamson,Saudi Arabia,5/15/2025,T-shirt,Fashion,460.4,4,1841.6,368.32,SR
+184,Angela Patrick,Bahrain,6/28/2025,Hair Dryer,Beauty,888.17,2,1776.34,355.268,SR
+185,Russell Kim,UAE,6/4/2025,Cookbook,Books,510.13,5,2550.65,510.13,SR
+186,Michael Gutierrez,Qatar,8/15/2024,Chair,Home,421.75,5,2108.75,421.75,SR
+187,Jennifer Gomez,Qatar,6/5/2025,Perfume,Beauty,855.57,4,3422.28,684.456,SR
+188,Miguel Walsh,Saudi Arabia,9/24/2024,Dress,Fashion,77.03,1,77.03,15.406,SR
+189,Christopher Watson,Saudi Arabia,12/2/2024,Hair Dryer,Beauty,175.34,4,701.36,140.272,SR
+190,Yolanda Vincent,Qatar,5/19/2025,Lipstick,Beauty,101.38,5,506.9,101.38,SR
+191,Elizabeth Gray,Kuwait,12/5/2024,Hair Dryer,Beauty,334.53,5,1672.65,334.53,SR
+192,Lisa Castillo,Kuwait,1/13/2025,Lamp,Home,979.66,3,2938.98,587.796,SR
+193,Larry Smith,Saudi Arabia,5/10/2025,T-shirt,Fashion,539.56,4,2158.24,431.648,SR
+194,Tonya Oliver,Saudi Arabia,3/22/2025,Hair Dryer,Beauty,672.73,1,672.73,134.546,SR
+195,Paige Smith,Kuwait,11/11/2024,Hair Dryer,Beauty,759.31,3,2277.93,455.586,SR
+196,Brittany Hudson,Kuwait,2/6/2025,Children Book,Books,406.93,4,1627.72,325.544,SR
+197,Megan Owen,UAE,6/22/2025,Shampoo,Beauty,856.31,2,1712.62,342.524,SR
+198,Austin Bennett,Saudi Arabia,10/15/2024,Novel,Books,780.52,4,3122.08,624.416,SR
+199,Angela Davis,UAE,9/10/2024,Dress,Fashion,354.19,2,708.38,141.676,SR
+200,James Brooks,Bahrain,11/8/2024,Jeans,Fashion,15.79,5,78.95,15.79,SR
+201,Autumn Hernandez,Saudi Arabia,7/4/2024,Cookbook,Books,833.18,4,3332.72,666.544,SR
+202,Cameron Johnson,Saudi Arabia,9/11/2024,Smartphone,Electronics,52.83,5,264.15,52.83,SR
+203,Julie Peterson,Qatar,1/5/2025,Jeans,Fashion,646.51,2,1293.02,258.604,SR
+204,Kathy Miller,Saudi Arabia,2/9/2025,Novel,Books,779.75,4,3119,623.8,SR
+205,Antonio Medina,Kuwait,4/25/2025,Lamp,Home,797.7,4,3190.8,638.16,SR
+206,Shawn Edwards,UAE,10/24/2024,Dress,Fashion,46.17,1,46.17,9.234,SR
+207,Matthew Baker,Oman,3/7/2025,Children Book,Books,399.86,4,1599.44,319.888,SR
+208,Charlene Woods,Bahrain,3/16/2025,T-shirt,Fashion,717.85,4,2871.4,574.28,SR
+209,Susan Smith,UAE,9/22/2024,Biography,Books,255.27,4,1021.08,204.216,SR
+210,Michelle Montes,UAE,10/26/2024,Bag,Fashion,510.47,5,2552.35,510.47,SR
+211,Jessica Horne,Oman,3/26/2025,Novel,Books,784.23,5,3921.15,784.23,SR
+212,Laura Cohen,UAE,4/11/2025,Camera,Electronics,597.59,5,2987.95,597.59,SR
+213,Melissa Randolph,Kuwait,12/9/2024,Children Book,Books,788.36,5,3941.8,788.36,SR
+214,Brad Lawson,Kuwait,9/5/2024,Novel,Books,92.37,1,92.37,18.474,SR
+215,Sierra Walsh,Saudi Arabia,7/21/2024,Dining Table,Home,296.95,3,890.85,178.17,SR
+216,Brooke Edwards,UAE,11/27/2024,Lipstick,Beauty,364.07,5,1820.35,364.07,SR
+217,Regina Morris,Bahrain,3/20/2025,Lamp,Home,445.84,2,891.68,178.336,SR
+218,Cheryl Jones,Bahrain,8/23/2024,Smartphone,Electronics,272.75,1,272.75,54.55,SR
+219,Dana Romero,Oman,8/31/2024,Curtains,Home,283.26,4,1133.04,226.608,SR
+220,Daniel Nelson,Oman,7/4/2024,T-shirt,Fashion,181.19,3,543.57,108.714,SR
+221,Erin Kent,Bahrain,12/12/2024,Dining Table,Home,27.38,2,54.76,10.952,SR
+222,Edward Johnston,UAE,7/4/2024,T-shirt,Fashion,472.9,5,2364.5,472.9,SR
+223,Brian Hanna,UAE,10/19/2024,Laptop,Electronics,146,3,438,87.6,SR
+224,Mark Brown,Kuwait,5/10/2025,Curtains,Home,128.37,2,256.74,51.348,SR
+225,Jonathan Scott,Bahrain,8/16/2024,Lamp,Home,180.6,3,541.8,108.36,SR
+226,Patricia Dunn,Bahrain,10/23/2024,Shampoo,Beauty,499.68,5,2498.4,499.68,SR
+227,Jeremy French,Saudi Arabia,11/9/2024,Bag,Fashion,843.44,4,3373.76,674.752,SR
+228,Chris Jacobs,Kuwait,3/15/2025,Perfume,Beauty,160.92,4,643.68,128.736,SR
+229,Brian Schmidt,Oman,6/24/2025,Lipstick,Beauty,115.82,5,579.1,115.82,SR
+230,Shannon Park,Oman,7/11/2024,Camera,Electronics,17.88,3,53.64,10.728,SR
+231,Terri Brewer,Kuwait,11/26/2024,Bag,Fashion,832.87,3,2498.61,499.722,SR
+232,James Griffin,Kuwait,5/26/2025,Cookbook,Books,70.76,2,141.52,28.304,SR
+233,Kevin Reeves,UAE,11/21/2024,Smartphone,Electronics,645.84,2,1291.68,258.336,SR
+234,Isaac Cantu Jr.,Bahrain,5/12/2025,Sofa,Home,409.77,5,2048.85,409.77,SR
+235,Jaime Costa,Saudi Arabia,5/7/2025,Novel,Books,56.04,5,280.2,56.04,SR
+236,Bryan Mcdonald,Qatar,1/24/2025,Lipstick,Beauty,758.62,1,758.62,151.724,SR
+237,Jessica Rodriguez,Qatar,6/23/2025,Jeans,Fashion,862.29,1,862.29,172.458,SR
+238,Suzanne Higgins,Bahrain,4/3/2025,Dining Table,Home,669.75,3,2009.25,401.85,SR
+239,John Williams,Oman,5/3/2025,Shampoo,Beauty,88.79,5,443.95,88.79,SR
+240,Nancy Shannon,Qatar,9/24/2024,T-shirt,Fashion,851.77,4,3407.08,681.416,SR
+241,Gregory Clark,Qatar,4/1/2025,Curtains,Home,202.39,5,1011.95,202.39,SR
+242,John Reynolds,Bahrain,9/29/2024,Laptop,Electronics,917.55,2,1835.1,367.02,SR
+243,Christina Stone,Kuwait,6/30/2024,Sneakers,Fashion,596.14,4,2384.56,476.912,SR
+244,Amber Wilson,UAE,11/7/2024,Camera,Electronics,62.22,3,186.66,37.332,SR
+245,Mitchell Russell,Bahrain,4/29/2025,Headphones,Electronics,677.74,2,1355.48,271.096,SR
+246,Richard King,Qatar,7/9/2024,Chair,Home,734.51,1,734.51,146.902,SR
+247,Zachary Smith,Oman,6/17/2025,Jeans,Fashion,715.41,2,1430.82,286.164,SR
+248,Christine Barber,Qatar,9/23/2024,Dress,Fashion,264.77,4,1059.08,211.816,SR
+249,Michael Wright III,Saudi Arabia,3/27/2025,Perfume,Beauty,198.48,4,793.92,158.784,SR
+250,Emma Green,UAE,9/6/2024,Children Book,Books,447.08,5,2235.4,447.08,SR
+251,Joel Rivera,UAE,3/16/2025,Headphones,Electronics,363.87,5,1819.35,363.87,SR
+252,Eric Pope,UAE,2/26/2025,Headphones,Electronics,639.75,4,2559,511.8,SR
+253,Michele Walter,Saudi Arabia,11/25/2024,Perfume,Beauty,118.26,3,354.78,70.956,SR
+254,Thomas Hamilton,Oman,6/16/2025,Cookbook,Books,230.92,4,923.68,184.736,SR
+255,Carrie Kim,Saudi Arabia,7/14/2024,Children Book,Books,374.53,1,374.53,74.906,SR
+256,Terry Leach,UAE,10/12/2024,Headphones,Electronics,508.57,4,2034.28,406.856,SR
+257,Megan Carr,UAE,2/4/2025,Headphones,Electronics,214.02,4,856.08,171.216,SR
+258,Steven Stevenson,UAE,6/29/2024,Jeans,Fashion,736.71,1,736.71,147.342,SR
+259,Christina Smith,Oman,3/24/2025,Sneakers,Fashion,255.58,5,1277.9,255.58,SR
+260,Robert Lawrence,Bahrain,8/17/2024,Travel Guide,Books,62.95,3,188.85,37.77,SR
+261,Courtney Blankenship,Bahrain,11/29/2024,Headphones,Electronics,10.37,2,20.74,4.148,SR
+262,Timothy Mccarthy,Saudi Arabia,2/26/2025,Novel,Books,832.32,5,4161.6,832.32,SR
+263,Carol Jones,Kuwait,7/20/2024,Jeans,Fashion,669.17,3,2007.51,401.502,SR
+264,Mary Leon,Qatar,7/22/2024,Smartphone,Electronics,642.29,3,1926.87,385.374,SR
+265,Curtis Adams,Qatar,10/6/2024,Tablet,Electronics,195.1,4,780.4,156.08,SR
+266,Allen Griffith,Saudi Arabia,1/20/2025,Headphones,Electronics,241.1,3,723.3,144.66,SR
+267,James Goodwin,UAE,3/14/2025,Cookbook,Books,458.18,4,1832.72,366.544,SR
+268,Sheena Hayes,Kuwait,1/31/2025,Children Book,Books,942.9,4,3771.6,754.32,SR
+269,Angela Phelps,UAE,6/16/2025,T-shirt,Fashion,650.11,1,650.11,130.022,SR
+270,David Garrett,Qatar,9/10/2024,Biography,Books,192.44,1,192.44,38.488,SR
+271,Raymond Perry,Qatar,6/25/2025,T-shirt,Fashion,339.8,2,679.6,135.92,SR
+272,Ethan Elliott,Saudi Arabia,8/18/2024,Shampoo,Beauty,292.63,1,292.63,58.526,SR
+273,Jonathan Gill,Oman,3/14/2025,Smartphone,Electronics,270.09,5,1350.45,270.09,SR
+274,Anthony White,Qatar,3/2/2025,Biography,Books,753.98,5,3769.9,753.98,SR
+275,Sharon Trujillo,Saudi Arabia,1/24/2025,Bag,Fashion,894.72,3,2684.16,536.832,SR
+276,Dennis Smith,UAE,4/8/2025,Travel Guide,Books,328.25,4,1313,262.6,SR
+277,Jesus Vega,Kuwait,12/29/2024,Sneakers,Fashion,130.62,4,522.48,104.496,SR
+278,Alicia Thompson,Bahrain,12/25/2024,T-shirt,Fashion,980.73,2,1961.46,392.292,SR
+279,Justin Welch,Qatar,8/25/2024,Smartphone,Electronics,571.25,1,571.25,114.25,SR
+280,Robert Foster,Qatar,7/31/2024,Children Book,Books,172,1,172,34.4,SR
+281,Austin Carter,Bahrain,8/17/2024,Children Book,Books,793.5,5,3967.5,793.5,SR
+282,Eric Jimenez,Kuwait,11/11/2024,Travel Guide,Books,609.52,5,3047.6,609.52,SR
+283,Ryan Fields,Kuwait,9/4/2024,Sneakers,Fashion,99.92,2,199.84,39.968,SR
+284,Colin Mills,Kuwait,6/7/2025,Hair Dryer,Beauty,828.11,3,2484.33,496.866,SR
+285,Elizabeth Miller,UAE,5/28/2025,T-shirt,Fashion,752.24,2,1504.48,300.896,SR
+286,Kathryn Ramsey,Oman,2/23/2025,Headphones,Electronics,608.66,5,3043.3,608.66,SR
+287,Andrea Ryan,Kuwait,9/15/2024,Sofa,Home,212.59,3,637.77,127.554,SR
+288,Traci Gonzalez,Kuwait,6/29/2025,Smartphone,Electronics,41.4,4,165.6,33.12,SR
+289,Nicholas Rivera,Bahrain,6/24/2025,Tablet,Electronics,360.28,4,1441.12,288.224,SR
+290,Valerie Anthony,UAE,1/7/2025,Headphones,Electronics,738.69,5,3693.45,738.69,SR
+291,Christina Ward,Oman,8/26/2024,Shampoo,Beauty,867.68,4,3470.72,694.144,SR
+292,Samantha Rogers,Oman,7/27/2024,Sofa,Home,86.5,4,346,69.2,SR
+293,Marissa Williams,Bahrain,7/6/2024,Shampoo,Beauty,34.18,3,102.54,20.508,SR
+294,Melissa Hanson,UAE,10/15/2024,Curtains,Home,363.65,1,363.65,72.73,SR
+295,Bryan Brooks,UAE,6/21/2025,Travel Guide,Books,396.83,4,1587.32,317.464,SR
+296,Kathryn Pitts,Qatar,12/16/2024,Camera,Electronics,690.94,4,2763.76,552.752,SR
+297,Timothy Jenkins,Saudi Arabia,11/10/2024,Bag,Fashion,909.92,3,2729.76,545.952,SR
+298,Samantha Shaw,Qatar,5/24/2025,Headphones,Electronics,662.73,5,3313.65,662.73,SR
+299,Richard Garcia,Saudi Arabia,10/17/2024,T-shirt,Fashion,353.88,2,707.76,141.552,SR
+300,Molly Moore,Saudi Arabia,6/20/2025,Novel,Books,628.91,3,1886.73,377.346,SR
+301,Allison Sullivan,UAE,11/4/2024,Jeans,Fashion,788.14,4,3152.56,630.512,SR
+302,Terrence Roach,Saudi Arabia,7/12/2024,Face Cream,Beauty,771.31,2,1542.62,308.524,SR
+303,Lori Combs,Saudi Arabia,11/19/2024,Chair,Home,366.72,3,1100.16,220.032,SR
+304,Francis Padilla,Bahrain,3/28/2025,Biography,Books,518.89,5,2594.45,518.89,SR
+305,Jennifer Jackson,Bahrain,10/31/2024,Biography,Books,606.73,4,2426.92,485.384,SR
+306,Adam Hoffman,Kuwait,8/31/2024,Cookbook,Books,726.64,2,1453.28,290.656,SR
+307,Jamie Robertson,Saudi Arabia,1/19/2025,Curtains,Home,634.55,5,3172.75,634.55,SR
+308,Ryan Wilkinson,UAE,12/10/2024,Camera,Electronics,462,5,2310,462,SR
+309,Jonathan Jones,Saudi Arabia,5/16/2025,Children Book,Books,837.9,1,837.9,167.58,SR
+310,Sherry Lewis,UAE,4/6/2025,Sneakers,Fashion,756.71,5,3783.55,756.71,SR
+311,Laura Williams,Kuwait,12/26/2024,Sneakers,Fashion,383.1,5,1915.5,383.1,SR
+312,Edwin Klein,UAE,2/16/2025,Cookbook,Books,129.62,4,518.48,103.696,SR
+313,Lance Baker,Bahrain,10/17/2024,Curtains,Home,699.39,4,2797.56,559.512,SR
+314,James Gilmore,Bahrain,9/6/2024,Novel,Books,397.21,5,1986.05,397.21,SR
+315,Ryan Guerrero,UAE,12/23/2024,Tablet,Electronics,252.98,5,1264.9,252.98,SR
+316,Jasmine Gonzalez,Oman,8/9/2024,Tablet,Electronics,100.06,5,500.3,100.06,SR
+317,Stephanie Carter,Qatar,9/7/2024,Smartphone,Electronics,930.47,2,1860.94,372.188,SR
+318,Rebecca Zimmerman,Kuwait,10/21/2024,Curtains,Home,355.94,3,1067.82,213.564,SR
+319,John Scott,Saudi Arabia,2/28/2025,Sneakers,Fashion,345.3,1,345.3,69.06,SR
+320,Jonathan Browning,Kuwait,4/2/2025,Sneakers,Fashion,717.86,3,2153.58,430.716,SR
+321,Jason Montes,UAE,4/19/2025,Bag,Fashion,353.9,3,1061.7,212.34,SR
+322,Sarah Turner,Bahrain,12/20/2024,Tablet,Electronics,875.4,2,1750.8,350.16,SR
+323,Melissa Lee,Oman,11/3/2024,Camera,Electronics,457.29,5,2286.45,457.29,SR
+324,Jeffery Smith,Oman,4/16/2025,Novel,Books,745.57,2,1491.14,298.228,SR
+325,Whitney Rivera,Oman,8/4/2024,Hair Dryer,Beauty,794.91,4,3179.64,635.928,SR
+326,Amy Charles,Saudi Arabia,5/5/2025,T-shirt,Fashion,683.01,1,683.01,136.602,SR
+327,Christine Smith,Kuwait,2/12/2025,Dress,Fashion,678.77,1,678.77,135.754,SR
+328,Jennifer Benjamin,UAE,4/15/2025,Tablet,Electronics,725.5,1,725.5,145.1,SR
+329,Billy Barber,Qatar,5/9/2025,Laptop,Electronics,940.59,1,940.59,188.118,SR
+330,Christina Ortiz,Saudi Arabia,4/6/2025,Travel Guide,Books,408,3,1224,244.8,SR
+331,Zachary Hunt,Saudi Arabia,2/19/2025,Biography,Books,446.43,5,2232.15,446.43,SR
+332,James Fisher,Oman,5/23/2025,Dining Table,Home,104.45,3,313.35,62.67,SR
+333,Adam Crawford,Qatar,4/9/2025,Lamp,Home,483.91,2,967.82,193.564,SR
+334,Holly Dickerson,Bahrain,7/1/2024,Biography,Books,409.45,1,409.45,81.89,SR
+335,Richard Holt,Bahrain,2/19/2025,Bag,Fashion,197.17,1,197.17,39.434,SR
+336,Mr. Jason Mcgrath,Kuwait,12/8/2024,Cookbook,Books,697.38,3,2092.14,418.428,SR
+337,Eric Miles,Saudi Arabia,5/15/2025,Laptop,Electronics,195.9,3,587.7,117.54,SR
+338,Deanna Smith,Oman,7/9/2024,Lamp,Home,203.01,2,406.02,81.204,SR
+339,Thomas Moody,Kuwait,6/28/2025,Face Cream,Beauty,946.11,2,1892.22,378.444,SR
+340,Jillian Johnson,Kuwait,8/4/2024,Hair Dryer,Beauty,78.92,5,394.6,78.92,SR
+341,Donald Leonard,Saudi Arabia,4/1/2025,Curtains,Home,985.76,3,2957.28,591.456,SR
+342,Mr. Phillip Walker,Kuwait,9/4/2024,Dining Table,Home,826.25,1,826.25,165.25,SR
+343,Hayley Phillips,Oman,6/26/2025,Smartphone,Electronics,402.77,1,402.77,80.554,SR
+344,Terri Jenkins,Bahrain,1/25/2025,Children Book,Books,762.38,2,1524.76,304.952,SR
+345,Mrs. Lauren Irwin,Bahrain,11/30/2024,Novel,Books,25.61,5,128.05,25.61,SR
+346,Kyle Ward,Kuwait,4/14/2025,Laptop,Electronics,26.89,3,80.67,16.134,SR
+347,Michelle Bailey,Saudi Arabia,9/7/2024,Camera,Electronics,34.7,3,104.1,20.82,SR
+348,Jason Hartman,UAE,2/18/2025,Dress,Fashion,327.41,4,1309.64,261.928,SR
+349,Scott Davis,Bahrain,7/10/2024,Biography,Books,83.71,4,334.84,66.968,SR
+350,Erica Davis,Kuwait,6/9/2025,Travel Guide,Books,942.24,4,3768.96,753.792,SR
+351,Kelly Alexander,UAE,8/2/2024,Shampoo,Beauty,930.76,3,2792.28,558.456,SR
+352,Anna Jenkins,Qatar,1/15/2025,Perfume,Beauty,284.84,5,1424.2,284.84,SR
+353,Andrew Lewis,Saudi Arabia,2/27/2025,Dining Table,Home,167.88,4,671.52,134.304,SR
+354,Alexandra Norris,Kuwait,10/30/2024,Sofa,Home,939.63,1,939.63,187.926,SR
+355,Patricia Norris,Qatar,7/13/2024,Tablet,Electronics,800.6,4,3202.4,640.48,SR
+356,Sara Perez,UAE,5/8/2025,Perfume,Beauty,756.16,1,756.16,151.232,SR
+357,Tanya Rosario,Kuwait,7/19/2024,Dress,Fashion,792.65,5,3963.25,792.65,SR
+358,Jason Martinez,Kuwait,9/5/2024,Tablet,Electronics,902.33,4,3609.32,721.864,SR
+359,Robert Smith,UAE,8/24/2024,Sofa,Home,616.07,4,2464.28,492.856,SR
+360,Sierra Taylor,UAE,8/1/2024,Lipstick,Beauty,791.16,3,2373.48,474.696,SR
+361,Timothy Robles,UAE,6/23/2025,Camera,Electronics,18,5,90,18,SR
+362,Julie Stein,Qatar,10/16/2024,Lamp,Home,183.77,3,551.31,110.262,SR
+363,Christina Case,Bahrain,8/29/2024,Travel Guide,Books,263.11,2,526.22,105.244,SR
+364,Stephanie Stewart,Oman,7/29/2024,T-shirt,Fashion,710.07,2,1420.14,284.028,SR
+365,Travis Anderson,Oman,5/27/2025,Bag,Fashion,321.45,3,964.35,192.87,SR
+366,Tracy Watson,Oman,3/14/2025,Sofa,Home,244.38,1,244.38,48.876,SR
+367,Eric Terry,Oman,12/7/2024,Children Book,Books,629.9,3,1889.7,377.94,SR
+368,Steven Cervantes,Qatar,11/15/2024,Camera,Electronics,453.57,5,2267.85,453.57,SR
+369,Thomas Proctor,Saudi Arabia,3/27/2025,Biography,Books,733.63,5,3668.15,733.63,SR
+370,Nancy Patterson,Saudi Arabia,5/19/2025,Sofa,Home,490.08,4,1960.32,392.064,SR
+371,Jared Green,Bahrain,1/29/2025,Smartphone,Electronics,276.35,3,829.05,165.81,SR
+372,Stacy Burke,UAE,3/28/2025,Laptop,Electronics,509.01,3,1527.03,305.406,SR
+373,Jacqueline Stanton,Qatar,5/19/2025,Dress,Fashion,318.11,2,636.22,127.244,SR
+374,Sydney Richards,UAE,4/18/2025,Tablet,Electronics,735.31,4,2941.24,588.248,SR
+375,Ashley Morrison,Oman,1/15/2025,Laptop,Electronics,781.09,2,1562.18,312.436,SR
+376,Mark Higgins,Oman,7/6/2024,Lipstick,Beauty,623.7,1,623.7,124.74,SR
+377,Deborah Edwards,Saudi Arabia,5/13/2025,Travel Guide,Books,102.24,5,511.2,102.24,SR
+378,Olivia Morse,Saudi Arabia,8/16/2024,Sneakers,Fashion,117.98,4,471.92,94.384,SR
+379,Barbara Potts,Saudi Arabia,5/29/2025,Children Book,Books,561.3,5,2806.5,561.3,SR
+380,Nicole Green,Bahrain,1/22/2025,Lipstick,Beauty,111.46,2,222.92,44.584,SR
+381,Jonathan Stephenson,Saudi Arabia,6/13/2025,Travel Guide,Books,61.73,5,308.65,61.73,SR
+382,Mario West,Oman,9/19/2024,Lipstick,Beauty,638.56,4,2554.24,510.848,SR
+383,Elijah Hale,Bahrain,12/5/2024,Tablet,Electronics,597.21,5,2986.05,597.21,SR
+384,Ryan Smith,Qatar,2/26/2025,T-shirt,Fashion,548.14,3,1644.42,328.884,SR
+385,James Mitchell,Kuwait,11/3/2024,Shampoo,Beauty,219.44,1,219.44,43.888,SR
+386,Jamie Greene,Oman,2/28/2025,Shampoo,Beauty,888.73,4,3554.92,710.984,SR
+387,Samantha Villarreal,Bahrain,1/28/2025,Travel Guide,Books,424.15,3,1272.45,254.49,SR
+388,Edward Robbins,Bahrain,2/6/2025,Sofa,Home,754.66,5,3773.3,754.66,SR
+389,Paula Bernard,Bahrain,5/28/2025,Hair Dryer,Beauty,181.96,3,545.88,109.176,SR
+390,Philip Salazar,Oman,12/31/2024,Bag,Fashion,537.56,1,537.56,107.512,SR
+391,Christopher Dominguez,Oman,7/31/2024,Headphones,Electronics,983.31,4,3933.24,786.648,SR
+392,Stacey Fuller,Oman,7/16/2024,Shampoo,Beauty,456.88,4,1827.52,365.504,SR
+393,Lauren Wood,UAE,8/27/2024,Novel,Books,281.85,1,281.85,56.37,SR
+394,Paul Villa,Bahrain,8/10/2024,Lamp,Home,89.87,2,179.74,35.948,SR
+395,Jennifer Schroeder,Qatar,2/18/2025,Biography,Books,509.98,5,2549.9,509.98,SR
+396,Daniel Rosales,Qatar,8/24/2024,Dress,Fashion,851.46,1,851.46,170.292,SR
+397,Jason Mcmillan,Qatar,7/12/2024,Novel,Books,787.92,1,787.92,157.584,SR
+398,Brandi Turner,Saudi Arabia,12/13/2024,Curtains,Home,773.98,1,773.98,154.796,SR
+399,Michael Raymond,Qatar,7/8/2024,Chair,Home,429.42,1,429.42,85.884,SR
+400,Colin Cordova,Bahrain,10/3/2024,Perfume,Beauty,970.13,1,970.13,194.026,SR
+401,Scott Ward,Qatar,5/14/2025,Shampoo,Beauty,485.71,3,1457.13,291.426,SR
+402,Jacob Nguyen,Qatar,12/12/2024,Dress,Fashion,49.91,2,99.82,19.964,SR
+403,Gabrielle Wagner,Saudi Arabia,7/29/2024,Headphones,Electronics,293.38,4,1173.52,234.704,SR
+404,Nicholas Foster,Qatar,9/30/2024,Tablet,Electronics,387.78,5,1938.9,387.78,SR
+405,Brittany Price,Qatar,10/30/2024,T-shirt,Fashion,647.42,2,1294.84,258.968,SR
+406,Shelby Morrison,Saudi Arabia,7/6/2024,Headphones,Electronics,583.4,5,2917,583.4,SR
+407,Mrs. Brooke Ford,Saudi Arabia,3/30/2025,Children Book,Books,185.3,1,185.3,37.06,SR
+408,Kathleen Johnson,Saudi Arabia,3/8/2025,Hair Dryer,Beauty,511.02,5,2555.1,511.02,SR
+409,Maria White,Qatar,6/3/2025,Sneakers,Fashion,127.81,3,383.43,76.686,SR
+410,Melinda Kelley,UAE,1/21/2025,Novel,Books,131.43,4,525.72,105.144,SR
+411,Heidi Graves,Oman,1/16/2025,Sneakers,Fashion,768.73,4,3074.92,614.984,SR
+412,Courtney Robertson,Saudi Arabia,4/21/2025,Biography,Books,181.25,2,362.5,72.5,SR
+413,Jason Sanders,Qatar,5/22/2025,Children Book,Books,552.99,4,2211.96,442.392,SR
+414,Madeline Taylor,UAE,1/9/2025,Laptop,Electronics,310.05,2,620.1,124.02,SR
+415,Alexander Horton,Kuwait,5/10/2025,Perfume,Beauty,224.93,4,899.72,179.944,SR
+416,Kevin Andrews,Oman,12/30/2024,Hair Dryer,Beauty,489.92,3,1469.76,293.952,SR
+417,Johnny Anderson,UAE,8/31/2024,Hair Dryer,Beauty,776.6,1,776.6,155.32,SR
+418,Timothy Adkins,Kuwait,8/23/2024,Sneakers,Fashion,770.35,5,3851.75,770.35,SR
+419,Amy Baker,Kuwait,3/31/2025,Curtains,Home,13.77,5,68.85,13.77,SR
+420,Lisa Chavez,Kuwait,6/10/2025,Lipstick,Beauty,793.84,2,1587.68,317.536,SR
+421,Ashley Bell,Kuwait,6/22/2025,Headphones,Electronics,78.62,4,314.48,62.896,SR
+422,Jamie Copeland,Qatar,6/6/2025,Laptop,Electronics,122.07,3,366.21,73.242,SR
+423,Brian Howard,Kuwait,4/21/2025,Shampoo,Beauty,375.8,4,1503.2,300.64,SR
+424,Rachael Richardson,Kuwait,9/22/2024,Tablet,Electronics,477.62,2,955.24,191.048,SR
+425,Sara Collier,Bahrain,9/3/2024,Camera,Electronics,239.12,3,717.36,143.472,SR
+426,Michael Miranda,UAE,8/8/2024,Dress,Fashion,487.37,5,2436.85,487.37,SR
+427,Jeff Zimmerman,Qatar,12/13/2024,Shampoo,Beauty,504.4,1,504.4,100.88,SR
+428,Brian Edwards,Bahrain,4/2/2025,Lipstick,Beauty,606.7,5,3033.5,606.7,SR
+429,Michael Cole,Bahrain,11/20/2024,Laptop,Electronics,619.64,3,1858.92,371.784,SR
+430,Michael Williams,Bahrain,6/15/2025,T-shirt,Fashion,457.83,3,1373.49,274.698,SR
+431,Shannon Jenkins,Qatar,5/7/2025,Shampoo,Beauty,33.23,4,132.92,26.584,SR
+432,Jonathan Jones,Oman,7/23/2024,Smartphone,Electronics,473.36,4,1893.44,378.688,SR
+433,Morgan Reyes,Qatar,12/15/2024,Dining Table,Home,985.67,1,985.67,197.134,SR
+434,Margaret Goodwin,Qatar,1/28/2025,Tablet,Electronics,869.37,1,869.37,173.874,SR
+435,Monica Maldonado,Kuwait,1/23/2025,Children Book,Books,13.39,4,53.56,10.712,SR
+436,Jeffery Reilly,Qatar,3/11/2025,Children Book,Books,649.73,2,1299.46,259.892,SR
+437,Brenda Dennis,Kuwait,11/9/2024,Lamp,Home,764.09,5,3820.45,764.09,SR
+438,William Weaver,Bahrain,11/17/2024,Smartphone,Electronics,952.19,4,3808.76,761.752,SR
+439,Kyle Castro,Qatar,7/22/2024,Bag,Fashion,921.07,1,921.07,184.214,SR
+440,Calvin Gonzalez,Oman,8/3/2024,Camera,Electronics,518.27,1,518.27,103.654,SR
+441,Jay Reed,Kuwait,2/16/2025,Camera,Electronics,580.09,4,2320.36,464.072,SR
+442,Nathan Todd,UAE,6/22/2025,Dress,Fashion,65.67,2,131.34,26.268,SR
+443,Randy Johnston,UAE,6/26/2025,Perfume,Beauty,501.32,2,1002.64,200.528,SR
+444,Jeffrey Walker,UAE,5/20/2025,Dress,Fashion,343.22,5,1716.1,343.22,SR
+445,Keith Marquez,Oman,6/6/2025,Children Book,Books,574.68,1,574.68,114.936,SR
+446,Clinton Burton,Qatar,10/13/2024,Sofa,Home,192.36,2,384.72,76.944,SR
+447,Andrew Thompson,Bahrain,11/23/2024,Camera,Electronics,726.7,3,2180.1,436.02,SR
+448,Carrie Boyd,Qatar,3/9/2025,Perfume,Beauty,472.13,5,2360.65,472.13,SR
+449,Keith Anderson,Kuwait,12/7/2024,Camera,Electronics,945.63,3,2836.89,567.378,SR
+450,Courtney Gonzalez,Bahrain,11/15/2024,Sofa,Home,455.39,5,2276.95,455.39,SR
+451,Jeffrey Dunn,Saudi Arabia,8/2/2024,Lipstick,Beauty,756.57,5,3782.85,756.57,SR
+452,Lawrence Stevenson,Bahrain,7/2/2024,Lipstick,Beauty,314.03,2,628.06,125.612,SR
+453,Jeffrey Torres,Bahrain,4/15/2025,Laptop,Electronics,158.67,1,158.67,31.734,SR
+454,Cynthia Stevenson,UAE,11/27/2024,Curtains,Home,569.31,3,1707.93,341.586,SR
+455,April Wyatt,Qatar,10/18/2024,Biography,Books,721.91,2,1443.82,288.764,SR
+456,Sherri Thornton,UAE,7/31/2024,Curtains,Home,435.87,3,1307.61,261.522,SR
+457,Kimberly Garrett,Oman,3/9/2025,Bag,Fashion,688.22,3,2064.66,412.932,SR
+458,Jill Johnson,Kuwait,10/16/2024,Laptop,Electronics,745.26,2,1490.52,298.104,SR
+459,Matthew Kramer,Kuwait,7/15/2024,Cookbook,Books,714.71,3,2144.13,428.826,SR
+460,Pamela Miranda,Bahrain,10/2/2024,Travel Guide,Books,621.57,4,2486.28,497.256,SR
+461,James Gutierrez,Bahrain,6/4/2025,Novel,Books,116.43,5,582.15,116.43,SR
+462,Ray Warner,Bahrain,12/1/2024,Face Cream,Beauty,177.87,3,533.61,106.722,SR
+463,Allison Richardson,Oman,5/14/2025,Face Cream,Beauty,783.27,3,2349.81,469.962,SR
+464,Rachel Mitchell,UAE,7/17/2024,Sneakers,Fashion,800.4,3,2401.2,480.24,SR
+465,Jessica Jones,Saudi Arabia,4/19/2025,Chair,Home,39.52,2,79.04,15.808,SR
+466,Catherine Rowe,Bahrain,6/24/2025,Dress,Fashion,662.18,2,1324.36,264.872,SR
+467,Lindsey Pratt,UAE,5/28/2025,Hair Dryer,Beauty,470.04,3,1410.12,282.024,SR
+468,Nancy Chan,Saudi Arabia,12/4/2024,Sofa,Home,550.28,4,2201.12,440.224,SR
+469,Caitlin Guerra,Bahrain,8/5/2024,Travel Guide,Books,522.01,3,1566.03,313.206,SR
+470,Katherine Pratt,Kuwait,9/18/2024,Children Book,Books,845.17,1,845.17,169.034,SR
+471,Kyle Brown,Qatar,10/24/2024,Dress,Fashion,42.13,5,210.65,42.13,SR
+472,Scott Hutchinson,Oman,8/29/2024,Headphones,Electronics,854.92,5,4274.6,854.92,SR
+473,Stephen Scott,Saudi Arabia,3/9/2025,Travel Guide,Books,47.37,5,236.85,47.37,SR
+474,Christina Price,Qatar,8/23/2024,Lipstick,Beauty,698.38,1,698.38,139.676,SR
+475,Shawn Mccoy,UAE,8/25/2024,Tablet,Electronics,34.16,5,170.8,34.16,SR
+476,Kristopher Lam,Bahrain,12/15/2024,Smartphone,Electronics,248.84,3,746.52,149.304,SR
+477,Miguel Rogers,Saudi Arabia,5/24/2025,Dining Table,Home,687.25,1,687.25,137.45,SR
+478,Timothy Hester,Saudi Arabia,9/13/2024,Children Book,Books,520.73,2,1041.46,208.292,SR
+479,Erika Adkins,Saudi Arabia,1/31/2025,Hair Dryer,Beauty,587.1,1,587.1,117.42,SR
+480,Colleen Diaz,Qatar,10/19/2024,Smartphone,Electronics,276.39,2,552.78,110.556,SR
+481,Stephen Nelson,Bahrain,10/29/2024,Bag,Fashion,351.52,1,351.52,70.304,SR
+482,Jasmine Olson,Saudi Arabia,8/9/2024,Cookbook,Books,307.49,1,307.49,61.498,SR
+483,Tamara Johnson,Kuwait,12/12/2024,Headphones,Electronics,312.94,4,1251.76,250.352,SR
+484,Victoria Warren,Kuwait,11/27/2024,Sneakers,Fashion,579.88,5,2899.4,579.88,SR
+485,Alison Flores,Qatar,6/1/2025,Travel Guide,Books,555.72,4,2222.88,444.576,SR
+486,Timothy Harris,Bahrain,3/21/2025,Lamp,Home,253.7,5,1268.5,253.7,SR
+487,David Collins,Oman,6/15/2025,Tablet,Electronics,344.64,3,1033.92,206.784,SR
+488,Sharon Brown,Bahrain,9/1/2024,Camera,Electronics,829.95,2,1659.9,331.98,SR
+489,James Kirk,Qatar,4/17/2025,Dress,Fashion,257.84,1,257.84,51.568,SR
+490,Terry Anderson,UAE,12/13/2024,Curtains,Home,526.25,5,2631.25,526.25,SR
+491,Ashley Williams,UAE,6/26/2025,Smartphone,Electronics,535.06,5,2675.3,535.06,SR
+492,Mary Benson,Saudi Arabia,1/15/2025,Children Book,Books,314.12,2,628.24,125.648,SR
+493,Terry Sawyer,Saudi Arabia,11/25/2024,Camera,Electronics,470.59,1,470.59,94.118,SR
+494,Tammy Moore,Bahrain,10/1/2024,Sneakers,Fashion,958.25,3,2874.75,574.95,SR
+495,Nathaniel Woods,Bahrain,2/19/2025,Children Book,Books,73.36,3,220.08,44.016,SR
+496,Dana Moss,Qatar,4/16/2025,Laptop,Electronics,85.89,4,343.56,68.712,SR
+497,Jonathan Thornton,Kuwait,11/21/2024,Smartphone,Electronics,718.14,4,2872.56,574.512,SR
+498,Chad Hayes,Kuwait,5/22/2025,Lamp,Home,708.45,5,3542.25,708.45,SR
+499,Michael Huang,UAE,6/20/2025,Biography,Books,626.4,2,1252.8,250.56,SR
+500,James Mullins,Oman,4/27/2025,Headphones,Electronics,825.03,5,4125.15,825.03,SR
+501,Candice Gibson,Saudi Arabia,2/23/2025,Bag,Fashion,562.17,3,1686.51,337.302,SR
+502,Paul Stevens,Saudi Arabia,4/30/2025,Biography,Books,206.21,1,206.21,41.242,SR
+503,Rachel Harper,Bahrain,7/25/2024,Camera,Electronics,777.92,3,2333.76,466.752,SR
+504,Zachary Brown,Bahrain,2/12/2025,Biography,Books,65.31,1,65.31,13.062,SR
+505,Robert Franklin,Oman,8/26/2024,Jeans,Fashion,684.44,5,3422.2,684.44,SR
+506,Francis Rodriguez,Oman,6/26/2025,Curtains,Home,784.27,4,3137.08,627.416,SR
+507,James Simon,UAE,3/19/2025,Novel,Books,180.65,3,541.95,108.39,SR
+508,Craig Smith,Qatar,2/24/2025,T-shirt,Fashion,341.18,3,1023.54,204.708,SR
+509,Jessica Carter,Bahrain,6/9/2025,Tablet,Electronics,79.73,1,79.73,15.946,SR
+510,Melissa Fox,Qatar,4/9/2025,Jeans,Fashion,67.75,5,338.75,67.75,SR
+511,Jennifer Leon,UAE,8/21/2024,Cookbook,Books,334.51,3,1003.53,200.706,SR
+512,Samantha Rojas,Saudi Arabia,4/20/2025,Sofa,Home,977.69,3,2933.07,586.614,SR
+513,Patrick Lopez,Kuwait,7/31/2024,Jeans,Fashion,906.48,1,906.48,181.296,SR
+514,Jonathan Bailey,Qatar,4/19/2025,Curtains,Home,315.25,1,315.25,63.05,SR
+515,Tanya Williamson,UAE,3/4/2025,Curtains,Home,350.62,3,1051.86,210.372,SR
+516,Ryan Maynard,Qatar,4/23/2025,Chair,Home,734.73,1,734.73,146.946,SR
+517,William Golden MD,Bahrain,11/5/2024,Sneakers,Fashion,235.16,1,235.16,47.032,SR
+518,Jessica Graves,UAE,10/8/2024,Perfume,Beauty,215.96,1,215.96,43.192,SR
+519,Allison Boyd,UAE,4/7/2025,Face Cream,Beauty,407.43,5,2037.15,407.43,SR
+520,Scott Owens,Qatar,12/24/2024,Travel Guide,Books,946.91,3,2840.73,568.146,SR
+521,Christine Wilson,Qatar,12/15/2024,Bag,Fashion,535.75,5,2678.75,535.75,SR
+522,Shane Peters,Bahrain,6/16/2025,Bag,Fashion,767.15,4,3068.6,613.72,SR
+523,Robert Stephens,UAE,10/11/2024,Laptop,Electronics,998.1,5,4990.5,998.1,SR
+524,Kathryn Jackson,Kuwait,10/16/2024,Children Book,Books,201.79,1,201.79,40.358,SR
+525,Mary Delgado,Bahrain,6/15/2025,Children Book,Books,636.12,3,1908.36,381.672,SR
+526,Michael Morrison,Qatar,1/11/2025,Sneakers,Fashion,699.82,3,2099.46,419.892,SR
+527,Mark Sheppard,Oman,4/12/2025,Shampoo,Beauty,588.58,2,1177.16,235.432,SR
+528,Austin Barnes,Kuwait,3/2/2025,Sofa,Home,603.97,5,3019.85,603.97,SR
+529,Wesley Hernandez,Oman,1/3/2025,Shampoo,Beauty,110.17,5,550.85,110.17,SR
+530,Shannon Rush,Bahrain,3/16/2025,Travel Guide,Books,532.59,2,1065.18,213.036,SR
+531,Daniel Reid,Oman,7/21/2024,Lamp,Home,660.63,1,660.63,132.126,SR
+532,Anthony Spears,UAE,12/2/2024,T-shirt,Fashion,14.67,4,58.68,11.736,SR
+533,Michael Nash,Bahrain,8/3/2024,Jeans,Fashion,879.11,4,3516.44,703.288,SR
+534,Tony Little,Oman,7/8/2024,Sneakers,Fashion,390.04,1,390.04,78.008,SR
+535,Dorothy Barrett,Bahrain,1/17/2025,Camera,Electronics,95.89,2,191.78,38.356,SR
+536,Stephen Mills,Kuwait,2/3/2025,Dress,Fashion,958.43,4,3833.72,766.744,SR
+537,Amanda Davies,Kuwait,2/9/2025,Tablet,Electronics,459.32,2,918.64,183.728,SR
+538,Mr. Paul Jennings MD,Saudi Arabia,5/9/2025,Perfume,Beauty,968.55,4,3874.2,774.84,SR
+539,Matthew Manning,Oman,5/16/2025,Lipstick,Beauty,837.51,3,2512.53,502.506,SR
+540,Phyllis Allen,UAE,6/28/2025,T-shirt,Fashion,25.58,5,127.9,25.58,SR
+541,Paula Campbell,Saudi Arabia,8/30/2024,Jeans,Fashion,56.41,1,56.41,11.282,SR
+542,Derek Meadows,Kuwait,5/23/2025,Hair Dryer,Beauty,816.43,5,4082.15,816.43,SR
+543,Vincent Herring,Oman,2/13/2025,Novel,Books,416.61,1,416.61,83.322,SR
+544,Eric Smith,Bahrain,11/1/2024,Biography,Books,967.43,1,967.43,193.486,SR
+545,Lisa Forbes,Qatar,9/29/2024,Biography,Books,32.76,2,65.52,13.104,SR
+546,Michele Cox,Kuwait,8/9/2024,Smartphone,Electronics,17.58,5,87.9,17.58,SR
+547,Jessica Alvarado,Kuwait,3/28/2025,T-shirt,Fashion,79.64,4,318.56,63.712,SR
+548,Christopher Howell,Kuwait,2/17/2025,Dining Table,Home,210.45,5,1052.25,210.45,SR
+549,Cynthia Santos,Oman,9/24/2024,Lamp,Home,35.96,5,179.8,35.96,SR
+550,Maria Ortiz,Oman,10/2/2024,Hair Dryer,Beauty,132.3,4,529.2,105.84,SR
+551,Tyler Malone,Saudi Arabia,9/1/2024,Shampoo,Beauty,754.75,2,1509.5,301.9,SR
+552,Elizabeth Mcfarland,Qatar,3/7/2025,Headphones,Electronics,644.86,5,3224.3,644.86,SR
+553,Sara Porter,Kuwait,10/14/2024,Camera,Electronics,350.15,3,1050.45,210.09,SR
+554,Kathleen Tate,Saudi Arabia,8/28/2024,Curtains,Home,145.17,2,290.34,58.068,SR
+555,Christopher Martinez,Bahrain,10/12/2024,Travel Guide,Books,751.32,2,1502.64,300.528,SR
+556,Lisa Thomas MD,Qatar,7/8/2024,Lipstick,Beauty,429.29,4,1717.16,343.432,SR
+557,Vanessa Lopez,Oman,12/17/2024,Jeans,Fashion,249.28,5,1246.4,249.28,SR
+558,Denise Pineda,Kuwait,5/30/2025,Sneakers,Fashion,597.74,5,2988.7,597.74,SR
+559,Erin Smith,Oman,1/11/2025,Dining Table,Home,568.51,5,2842.55,568.51,SR
+560,Andrew Thompson,Kuwait,3/14/2025,Jeans,Fashion,62.36,3,187.08,37.416,SR
+561,Emily Mccarthy,UAE,8/30/2024,Shampoo,Beauty,417.6,1,417.6,83.52,SR
+562,Linda Campbell,Saudi Arabia,4/5/2025,Tablet,Electronics,61.76,4,247.04,49.408,SR
+563,Jacob Brandt,Qatar,11/4/2024,Perfume,Beauty,295.59,1,295.59,59.118,SR
+564,Martin Moore,Qatar,12/18/2024,Tablet,Electronics,227.89,1,227.89,45.578,SR
+565,Mr. Larry Moss,Oman,12/22/2024,Laptop,Electronics,910.15,3,2730.45,546.09,SR
+566,Diana Rose,Saudi Arabia,3/4/2025,Children Book,Books,655.31,3,1965.93,393.186,SR
+567,Jonathon Perry,Saudi Arabia,7/8/2024,Tablet,Electronics,90.04,2,180.08,36.016,SR
+568,Raymond Lang,Qatar,8/14/2024,Sneakers,Fashion,516.53,2,1033.06,206.612,SR
+569,Kathryn Torres,Oman,7/18/2024,Face Cream,Beauty,519.34,3,1558.02,311.604,SR
+570,Shelby Newton,Saudi Arabia,7/11/2024,Bag,Fashion,554.62,2,1109.24,221.848,SR
+571,Justin Miller,UAE,4/17/2025,Biography,Books,359.55,1,359.55,71.91,SR
+572,Michelle Blankenship,Qatar,1/10/2025,Cookbook,Books,204.04,5,1020.2,204.04,SR
+573,Jessica Gonzalez,Kuwait,3/31/2025,Sneakers,Fashion,243.99,4,975.96,195.192,SR
+574,Joshua Stone,Qatar,7/19/2024,Laptop,Electronics,860.54,1,860.54,172.108,SR
+575,Christine Cherry,UAE,9/27/2024,Camera,Electronics,738.9,5,3694.5,738.9,SR
+576,Justin Powell,Qatar,9/29/2024,Face Cream,Beauty,479.89,5,2399.45,479.89,SR
+577,Michelle Wilson,Kuwait,9/29/2024,Hair Dryer,Beauty,303.17,1,303.17,60.634,SR
+578,Michael Moon,Saudi Arabia,4/16/2025,Headphones,Electronics,751.49,1,751.49,150.298,SR
+579,Gary Cervantes,Kuwait,12/24/2024,Travel Guide,Books,324.28,2,648.56,129.712,SR
+580,Michael Reynolds,Qatar,10/31/2024,Children Book,Books,787.31,2,1574.62,314.924,SR
+581,Nathan Jackson,Oman,5/14/2025,Headphones,Electronics,384.07,5,1920.35,384.07,SR
+582,Kelsey Hayes,UAE,4/8/2025,T-shirt,Fashion,489.98,5,2449.9,489.98,SR
+583,Anna Jones,Kuwait,1/3/2025,Dining Table,Home,53.34,5,266.7,53.34,SR
+584,Brandon Lewis,UAE,5/2/2025,Tablet,Electronics,696.63,4,2786.52,557.304,SR
+585,Jeremy Patterson,Oman,7/23/2024,Tablet,Electronics,753.65,4,3014.6,602.92,SR
+586,Tyler Fowler,Oman,6/2/2025,Camera,Electronics,25.09,5,125.45,25.09,SR
+587,Samuel Howell,Oman,10/23/2024,Headphones,Electronics,916.87,4,3667.48,733.496,SR
+588,Robin Wilcox,Kuwait,4/11/2025,Shampoo,Beauty,327.74,1,327.74,65.548,SR
+589,Daniel Gibson,Saudi Arabia,12/11/2024,Novel,Books,931.37,4,3725.48,745.096,SR
+590,Sara Malone,Oman,10/20/2024,Dining Table,Home,460.18,2,920.36,184.072,SR
+591,Traci Wells,UAE,6/29/2025,Lamp,Home,147.03,2,294.06,58.812,SR
+592,Patricia Diaz,UAE,11/13/2024,Cookbook,Books,278.59,3,835.77,167.154,SR
+593,Lee Ryan,Kuwait,11/1/2024,Sneakers,Fashion,184.99,5,924.95,184.99,SR
+594,Ann Zavala,Oman,6/17/2025,Sneakers,Fashion,482.98,1,482.98,96.596,SR
+595,Alejandro Barton,Kuwait,8/29/2024,Hair Dryer,Beauty,726.93,4,2907.72,581.544,SR
+596,John Patterson,Saudi Arabia,6/13/2025,Camera,Electronics,86.62,1,86.62,17.324,SR
+597,Elizabeth Kirby,Qatar,2/26/2025,Curtains,Home,595.01,1,595.01,119.002,SR
+598,Sara Moore,Oman,1/7/2025,Face Cream,Beauty,823.59,2,1647.18,329.436,SR
+599,James Hardin,Kuwait,4/12/2025,Novel,Books,966.07,5,4830.35,966.07,SR
+600,James Bradley,Qatar,10/5/2024,Biography,Books,97.67,4,390.68,78.136,SR
+601,Sharon Carpenter,Saudi Arabia,1/23/2025,Dress,Fashion,654.05,3,1962.15,392.43,SR
+602,Sharon Weaver,Oman,1/15/2025,Bag,Fashion,322.8,5,1614,322.8,SR
+603,Christopher Hensley,Saudi Arabia,3/5/2025,Biography,Books,136.55,2,273.1,54.62,SR
+604,Lisa Wilson,Kuwait,8/5/2024,Cookbook,Books,840.75,1,840.75,168.15,SR
+605,Dustin Byrd,Qatar,12/29/2024,Lamp,Home,233.05,5,1165.25,233.05,SR
+606,Nicole Reilly,Kuwait,5/4/2025,Chair,Home,442.13,3,1326.39,265.278,SR
+607,Marvin Stein,Kuwait,6/4/2025,Sneakers,Fashion,105.85,5,529.25,105.85,SR
+608,Pamela Ramirez,Saudi Arabia,4/12/2025,Curtains,Home,504.06,2,1008.12,201.624,SR
+609,Matthew Mcconnell,Oman,5/10/2025,Face Cream,Beauty,70.73,2,141.46,28.292,SR
+610,Patrick Ray,Saudi Arabia,7/10/2024,Travel Guide,Books,687.57,5,3437.85,687.57,SR
+611,Brandi White,Oman,12/15/2024,Bag,Fashion,43.11,1,43.11,8.622,SR
+612,Susan Harris,Saudi Arabia,11/23/2024,Laptop,Electronics,953.86,5,4769.3,953.86,SR
+613,Pamela King,Kuwait,9/1/2024,Laptop,Electronics,172.73,2,345.46,69.092,SR
+614,Sarah Wilson,Qatar,8/12/2024,Smartphone,Electronics,368.72,2,737.44,147.488,SR
+615,David Stone,Oman,10/17/2024,Bag,Fashion,420.26,3,1260.78,252.156,SR
+616,Joseph Merritt,Qatar,1/6/2025,Shampoo,Beauty,86.38,3,259.14,51.828,SR
+617,Seth Roberson,Saudi Arabia,3/3/2025,Cookbook,Books,693.74,4,2774.96,554.992,SR
+618,Adrienne Jones,Kuwait,11/5/2024,Dress,Fashion,481.25,3,1443.75,288.75,SR
+619,Melissa Hardy,Oman,1/19/2025,Perfume,Beauty,818.63,5,4093.15,818.63,SR
+620,Kimberly Hoffman,Qatar,3/27/2025,Shampoo,Beauty,228.05,2,456.1,91.22,SR
+621,Nicholas Wong,Oman,7/8/2024,Children Book,Books,583.35,2,1166.7,233.34,SR
+622,Theresa Padilla,Qatar,2/28/2025,Sneakers,Fashion,105.44,1,105.44,21.088,SR
+623,Jay Zuniga,Oman,3/14/2025,Jeans,Fashion,292.91,2,585.82,117.164,SR
+624,Donna Bryant,Oman,9/2/2024,Bag,Fashion,340.99,4,1363.96,272.792,SR
+625,Daniel Farmer,Qatar,12/10/2024,Camera,Electronics,816.57,1,816.57,163.314,SR
+626,Justin Li,UAE,9/1/2024,Sneakers,Fashion,704.69,5,3523.45,704.69,SR
+627,Jessica Spencer,Qatar,3/11/2025,Tablet,Electronics,541.62,4,2166.48,433.296,SR
+628,Toni Jackson,Qatar,2/8/2025,Sneakers,Fashion,798.53,5,3992.65,798.53,SR
+629,Tristan Henry,Kuwait,5/1/2025,Cookbook,Books,631.57,2,1263.14,252.628,SR
+630,Bradley Murray,Oman,7/24/2024,Cookbook,Books,198.94,4,795.76,159.152,SR
+631,Brooke Davis,Kuwait,11/22/2024,Shampoo,Beauty,259.22,2,518.44,103.688,SR
+632,George Moran,Saudi Arabia,9/26/2024,Children Book,Books,516.9,1,516.9,103.38,SR
+633,Jennifer Jones,Saudi Arabia,12/2/2024,Dress,Fashion,77.84,4,311.36,62.272,SR
+634,Jessica Medina,Qatar,6/6/2025,Chair,Home,49.28,3,147.84,29.568,SR
+635,Lori Riley,Oman,8/19/2024,Cookbook,Books,834.89,5,4174.45,834.89,SR
+636,Mary Acosta,Kuwait,8/24/2024,Perfume,Beauty,998.54,1,998.54,199.708,SR
+637,Jennifer King,Oman,11/12/2024,Novel,Books,480.87,5,2404.35,480.87,SR
+638,Ryan Cole,Oman,1/19/2025,Tablet,Electronics,588.79,3,1766.37,353.274,SR
+639,Megan Rodriguez,Bahrain,4/15/2025,Travel Guide,Books,962.33,1,962.33,192.466,SR
+640,Melissa Stevenson,Bahrain,10/25/2024,Biography,Books,408.99,1,408.99,81.798,SR
+641,Paula Le,Kuwait,10/11/2024,Smartphone,Electronics,655.3,4,2621.2,524.24,SR
+642,Judy Walker,Oman,1/6/2025,Dress,Fashion,511.88,4,2047.52,409.504,SR
+643,Christina Crane,Saudi Arabia,5/18/2025,Curtains,Home,458.71,1,458.71,91.742,SR
+644,Krystal Robertson,Saudi Arabia,8/18/2024,Laptop,Electronics,887.07,3,2661.21,532.242,SR
+645,Ryan Reese,Qatar,12/10/2024,Hair Dryer,Beauty,27.91,4,111.64,22.328,SR
+646,Scott Clark,Kuwait,12/2/2024,Cookbook,Books,156.33,1,156.33,31.266,SR
+647,Debbie Rivera,UAE,7/27/2024,Travel Guide,Books,428.58,4,1714.32,342.864,SR
+648,Abigail Stevens,Bahrain,5/30/2025,Tablet,Electronics,678.52,5,3392.6,678.52,SR
+649,David Simpson,Saudi Arabia,8/31/2024,Travel Guide,Books,816.75,5,4083.75,816.75,SR
+650,Megan Williams,Saudi Arabia,7/23/2024,Perfume,Beauty,730.54,1,730.54,146.108,SR
+651,Jonathan Tucker,Kuwait,7/6/2024,Sneakers,Fashion,582.82,2,1165.64,233.128,SR
+652,Tammy Jarvis,Qatar,5/19/2025,Perfume,Beauty,422,4,1688,337.6,SR
+653,Brian Cline,Oman,8/10/2024,Lamp,Home,194.57,4,778.28,155.656,SR
+654,Debra Parker,Qatar,11/18/2024,Sofa,Home,374,2,748,149.6,SR
+655,Amber Gomez,Qatar,6/7/2025,Tablet,Electronics,156.39,2,312.78,62.556,SR
+656,Joshua Mitchell,Bahrain,4/7/2025,Face Cream,Beauty,223.32,2,446.64,89.328,SR
+657,Leah Rodriguez,Kuwait,11/13/2024,Hair Dryer,Beauty,822.61,4,3290.44,658.088,SR
+658,Carla Gomez,Qatar,5/26/2025,Travel Guide,Books,79.28,3,237.84,47.568,SR
+659,Sara Ford,Qatar,9/7/2024,Novel,Books,111.21,5,556.05,111.21,SR
+660,Sandy Moore,Saudi Arabia,6/23/2025,Tablet,Electronics,907.32,4,3629.28,725.856,SR
+661,Tamara Alexander,Saudi Arabia,3/29/2025,Shampoo,Beauty,898.93,5,4494.65,898.93,SR
+662,Calvin Lin,UAE,9/23/2024,Children Book,Books,970.23,4,3880.92,776.184,SR
+663,Joseph Higgins,Qatar,4/5/2025,Lipstick,Beauty,665.08,4,2660.32,532.064,SR
+664,Calvin Powell,Saudi Arabia,1/1/2025,Lamp,Home,945.81,5,4729.05,945.81,SR
+665,Collin Smith,Qatar,3/10/2025,Sneakers,Fashion,440.64,4,1762.56,352.512,SR
+666,Jenny Blankenship,Qatar,7/5/2024,Novel,Books,304.08,2,608.16,121.632,SR
+667,Hannah Lin,UAE,9/30/2024,Biography,Books,531.1,2,1062.2,212.44,SR
+668,Julia Banks,Kuwait,10/12/2024,Cookbook,Books,606.54,4,2426.16,485.232,SR
+669,Desiree Gomez,Saudi Arabia,10/6/2024,Lipstick,Beauty,940.07,2,1880.14,376.028,SR
+670,Jessica Graves,Bahrain,11/5/2024,Children Book,Books,355.76,1,355.76,71.152,SR
+671,Michael Reynolds,Qatar,6/8/2025,Dress,Fashion,989.51,1,989.51,197.902,SR
+672,Kim Brown,Qatar,12/11/2024,Travel Guide,Books,461.71,5,2308.55,461.71,SR
+673,Shelley Richard,Oman,10/31/2024,Dress,Fashion,255.26,4,1021.04,204.208,SR
+674,Steven Wilkinson MD,Kuwait,8/31/2024,Shampoo,Beauty,791.21,3,2373.63,474.726,SR
+675,Michael Cervantes,Kuwait,10/3/2024,Cookbook,Books,418.85,4,1675.4,335.08,SR
+676,Julia Coleman,Bahrain,8/16/2024,Headphones,Electronics,294.55,3,883.65,176.73,SR
+677,Craig Brown,Kuwait,6/26/2025,Chair,Home,39.41,2,78.82,15.764,SR
+678,Thomas Perez,Bahrain,2/21/2025,Headphones,Electronics,85.17,2,170.34,34.068,SR
+679,Miss Karen Taylor PhD,Oman,9/5/2024,Lipstick,Beauty,543.92,3,1631.76,326.352,SR
+680,Sarah Black,Saudi Arabia,9/13/2024,Lipstick,Beauty,541.91,4,2167.64,433.528,SR
+681,Ryan Foster,Oman,10/2/2024,Travel Guide,Books,646.63,3,1939.89,387.978,SR
+682,Maria Butler,Bahrain,2/19/2025,Curtains,Home,751.45,4,3005.8,601.16,SR
+683,Heidi Johnson,UAE,2/2/2025,Laptop,Electronics,216.69,4,866.76,173.352,SR
+684,Sonya Coffey,Saudi Arabia,7/1/2024,Dress,Fashion,99.6,4,398.4,79.68,SR
+685,Scott Underwood,Qatar,6/6/2025,Children Book,Books,699.22,1,699.22,139.844,SR
+686,Ryan Mcgee,Oman,11/24/2024,Dress,Fashion,124.84,1,124.84,24.968,SR
+687,Sherry Lynn,Oman,10/7/2024,Novel,Books,447.86,1,447.86,89.572,SR
+688,Bonnie White,Kuwait,2/1/2025,Smartphone,Electronics,681.73,5,3408.65,681.73,SR
+689,Sarah Crawford,Kuwait,9/10/2024,Camera,Electronics,314.94,5,1574.7,314.94,SR
+690,Mark Wells,UAE,12/20/2024,Tablet,Electronics,961.72,1,961.72,192.344,SR
+691,Stephanie Atkins,Oman,6/19/2025,Children Book,Books,564.12,1,564.12,112.824,SR
+692,Steven Davies,Oman,8/29/2024,Lamp,Home,154.59,1,154.59,30.918,SR
+693,John Whitehead,Saudi Arabia,7/13/2024,Curtains,Home,834.71,5,4173.55,834.71,SR
+694,Jerry Bryant,Bahrain,9/6/2024,Camera,Electronics,911.69,2,1823.38,364.676,SR
+695,Jonathan Perez,Qatar,9/13/2024,Bag,Fashion,732.28,2,1464.56,292.912,SR
+696,Kathy Rose,UAE,4/5/2025,Perfume,Beauty,230.09,4,920.36,184.072,SR
+697,Tyler Ballard,Bahrain,3/24/2025,Chair,Home,690.76,3,2072.28,414.456,SR
+698,Richard Mann,Bahrain,12/17/2024,Curtains,Home,884.32,1,884.32,176.864,SR
+699,William Greene,Saudi Arabia,10/21/2024,Novel,Books,751.41,5,3757.05,751.41,SR
+700,Elizabeth Hicks,Saudi Arabia,7/6/2024,Bag,Fashion,617.54,2,1235.08,247.016,SR
+701,Lisa Small,Qatar,8/3/2024,Dining Table,Home,37.39,1,37.39,7.478,SR
+702,Julie Welch,Qatar,6/30/2024,Hair Dryer,Beauty,30.37,5,151.85,30.37,SR
+703,Joy Diaz,Kuwait,9/21/2024,Lamp,Home,807.53,1,807.53,161.506,SR
+704,Brittney Cruz,Bahrain,9/26/2024,Travel Guide,Books,564.61,1,564.61,112.922,SR
+705,Susan Ayers,Kuwait,5/22/2025,Hair Dryer,Beauty,271.28,2,542.56,108.512,SR
+706,Hannah Maldonado,Kuwait,12/2/2024,Lipstick,Beauty,216.56,3,649.68,129.936,SR
+707,Breanna Hill,Oman,7/17/2024,Chair,Home,147.14,5,735.7,147.14,SR
+708,Marc Oconnor,Bahrain,10/23/2024,Jeans,Fashion,638.63,3,1915.89,383.178,SR
+709,Megan Avery,UAE,9/5/2024,Smartphone,Electronics,87.85,4,351.4,70.28,SR
+710,Jillian Cooper,Saudi Arabia,5/30/2025,Perfume,Beauty,534.22,3,1602.66,320.532,SR
+711,Jill Hill,Bahrain,9/3/2024,Jeans,Fashion,488.93,5,2444.65,488.93,SR
+712,Thomas King Jr.,UAE,10/21/2024,Tablet,Electronics,42.86,4,171.44,34.288,SR
+713,Michael Howard,Saudi Arabia,2/21/2025,Lamp,Home,105.84,3,317.52,63.504,SR
+714,Linda Miller,Kuwait,3/11/2025,Smartphone,Electronics,352.66,3,1057.98,211.596,SR
+715,Theresa Berg,Qatar,10/10/2024,Curtains,Home,584.27,1,584.27,116.854,SR
+716,Matthew Rodriguez,Oman,5/3/2025,Lamp,Home,759.09,2,1518.18,303.636,SR
+717,Allison Bush,Oman,12/26/2024,Jeans,Fashion,965.92,5,4829.6,965.92,SR
+718,Jesse Aguilar,Kuwait,1/31/2025,Hair Dryer,Beauty,637.92,5,3189.6,637.92,SR
+719,Douglas White,Saudi Arabia,10/2/2024,Sneakers,Fashion,46.1,1,46.1,9.22,SR
+720,Ryan Moody,Qatar,1/1/2025,Smartphone,Electronics,473.44,2,946.88,189.376,SR
+721,Willie Valdez,Oman,11/20/2024,Shampoo,Beauty,830.06,4,3320.24,664.048,SR
+722,Brian Jackson,Qatar,9/16/2024,Dress,Fashion,739.85,1,739.85,147.97,SR
+723,Brittney White,Saudi Arabia,5/15/2025,Novel,Books,694.25,2,1388.5,277.7,SR
+724,Matthew Woods,Kuwait,5/13/2025,Tablet,Electronics,130.96,2,261.92,52.384,SR
+725,Gregory Martinez,UAE,7/12/2024,Shampoo,Beauty,338.77,5,1693.85,338.77,SR
+726,Jerry Valdez,Bahrain,3/6/2025,Dining Table,Home,483.45,1,483.45,96.69,SR
+727,Dr. Michael Cook,UAE,10/28/2024,Hair Dryer,Beauty,504.81,1,504.81,100.962,SR
+728,Alyssa Smith,Saudi Arabia,10/14/2024,Lamp,Home,231.53,1,231.53,46.306,SR
+729,Terry Lambert,Bahrain,1/31/2025,Perfume,Beauty,112.37,3,337.11,67.422,SR
+730,Jessica Walker,UAE,11/1/2024,Camera,Electronics,965.2,2,1930.4,386.08,SR
+731,Amy Nelson,Qatar,12/4/2024,Lamp,Home,735.29,2,1470.58,294.116,SR
+732,Alexis Baker,Bahrain,9/9/2024,Children Book,Books,279.49,3,838.47,167.694,SR
+733,Patrick Allison,Qatar,7/15/2024,Chair,Home,249.6,2,499.2,99.84,SR
+734,Christopher Jordan,Bahrain,8/30/2024,Novel,Books,781.06,4,3124.24,624.848,SR
+735,Melvin Greene,Kuwait,9/16/2024,Lamp,Home,15.25,2,30.5,6.1,SR
+736,Andrew Goodwin,Saudi Arabia,6/4/2025,Headphones,Electronics,727.83,5,3639.15,727.83,SR
+737,Alyssa Dorsey,Qatar,1/2/2025,Face Cream,Beauty,286.36,2,572.72,114.544,SR
+738,Earl Armstrong,Kuwait,10/22/2024,Curtains,Home,951.89,4,3807.56,761.512,SR
+739,Angela Tapia,Qatar,9/2/2024,Laptop,Electronics,315.54,4,1262.16,252.432,SR
+740,Andrew Chandler,Qatar,10/9/2024,Dress,Fashion,751.41,4,3005.64,601.128,SR
+741,Carlos Mejia,Oman,10/5/2024,Children Book,Books,162.74,3,488.22,97.644,SR
+742,Lisa Wood,Qatar,6/22/2025,Children Book,Books,654.45,3,1963.35,392.67,SR
+743,Teresa Lee,Oman,4/16/2025,Novel,Books,13.59,4,54.36,10.872,SR
+744,George Fuentes,Oman,7/21/2024,Lamp,Home,176.12,5,880.6,176.12,SR
+745,Mary Armstrong,UAE,2/16/2025,Travel Guide,Books,760.06,1,760.06,152.012,SR
+746,David Mcguire,Qatar,9/21/2024,Curtains,Home,677.71,4,2710.84,542.168,SR
+747,Juan Carter,Bahrain,1/31/2025,Children Book,Books,318.33,2,636.66,127.332,SR
+748,Johnathan Middleton,Bahrain,9/5/2024,Smartphone,Electronics,398.28,5,1991.4,398.28,SR
+749,Kari Hernandez,Kuwait,2/28/2025,Lipstick,Beauty,13.07,3,39.21,7.842,SR
+750,Jesus Wagner,Bahrain,9/3/2024,Hair Dryer,Beauty,124.88,2,249.76,49.952,SR
+751,Michael Brooks,Bahrain,11/27/2024,Lipstick,Beauty,26.42,4,105.68,21.136,SR
+752,Scott Garrett,UAE,5/18/2025,Bag,Fashion,927.96,3,2783.88,556.776,SR
+753,Marissa Davis,Bahrain,9/19/2024,Biography,Books,155.87,2,311.74,62.348,SR
+754,Jacob Hartman,UAE,3/14/2025,Sneakers,Fashion,576.55,1,576.55,115.31,SR
+755,Jimmy Cummings,Bahrain,11/21/2024,T-shirt,Fashion,874.14,5,4370.7,874.14,SR
+756,Debbie Rodriguez,Qatar,11/20/2024,Tablet,Electronics,300.12,4,1200.48,240.096,SR
+757,Steven Pitts,Oman,8/8/2024,Novel,Books,858.5,1,858.5,171.7,SR
+758,Lisa Harmon,UAE,3/23/2025,Biography,Books,885.16,3,2655.48,531.096,SR
+759,Jenna Maxwell,Oman,5/18/2025,Lipstick,Beauty,760.68,4,3042.72,608.544,SR
+760,Jennifer Mcclure,Oman,2/26/2025,Hair Dryer,Beauty,691.08,3,2073.24,414.648,SR
+761,Ryan Johnson,Saudi Arabia,1/22/2025,Cookbook,Books,60.06,1,60.06,12.012,SR
+762,John Banks,Qatar,4/27/2025,Shampoo,Beauty,236.9,5,1184.5,236.9,SR
+763,Michael Sanders,Bahrain,2/12/2025,Novel,Books,917.83,2,1835.66,367.132,SR
+764,Micheal Maxwell,Bahrain,8/24/2024,Novel,Books,173.4,3,520.2,104.04,SR
+765,William Small,Kuwait,9/20/2024,Face Cream,Beauty,702.59,1,702.59,140.518,SR
+766,Mark Mcgrath,Kuwait,2/5/2025,Tablet,Electronics,81.82,5,409.1,81.82,SR
+767,Christina Smith,Kuwait,7/6/2024,Hair Dryer,Beauty,189.18,3,567.54,113.508,SR
+768,Erin Miller,Oman,8/4/2024,Camera,Electronics,631.22,3,1893.66,378.732,SR
+769,Charles Wright,UAE,1/26/2025,Cookbook,Books,217.84,5,1089.2,217.84,SR
+770,Yvette Moreno,Oman,5/27/2025,Smartphone,Electronics,675.22,5,3376.1,675.22,SR
+771,Dr. Charles Castillo,Kuwait,2/9/2025,Tablet,Electronics,925.61,3,2776.83,555.366,SR
+772,Michelle Weber,Oman,9/24/2024,Dining Table,Home,315.59,3,946.77,189.354,SR
+773,Alexander Todd,Bahrain,8/20/2024,Shampoo,Beauty,627.97,2,1255.94,251.188,SR
+774,Tanya Pineda,Bahrain,1/20/2025,Sneakers,Fashion,891.68,1,891.68,178.336,SR
+775,Dana Gibson,Kuwait,6/15/2025,Lipstick,Beauty,614.5,5,3072.5,614.5,SR
+776,Richard Thompson,Bahrain,12/5/2024,Shampoo,Beauty,581.28,3,1743.84,348.768,SR
+777,Tracy Reed,Bahrain,7/9/2024,Headphones,Electronics,203.27,3,609.81,121.962,SR
+778,Adrian Becker,Kuwait,5/14/2025,Curtains,Home,763.68,3,2291.04,458.208,SR
+779,Jacqueline Smith,Qatar,3/1/2025,Camera,Electronics,699.1,4,2796.4,559.28,SR
+780,Michelle Martinez,Bahrain,7/3/2024,Tablet,Electronics,973.5,1,973.5,194.7,SR
+781,Caroline Miller,Bahrain,5/4/2025,Novel,Books,85.08,4,340.32,68.064,SR
+782,Meghan Bonilla,Oman,2/10/2025,Travel Guide,Books,906.5,4,3626,725.2,SR
+783,Sharon Olson,Kuwait,3/4/2025,Biography,Books,611.03,2,1222.06,244.412,SR
+784,Ashley Martinez,Bahrain,7/1/2024,Dining Table,Home,766.93,4,3067.72,613.544,SR
+785,Pedro Wilson,Kuwait,4/25/2025,Laptop,Electronics,623.33,3,1869.99,373.998,SR
+786,Anthony Kelly,Bahrain,12/19/2024,Sofa,Home,960.32,4,3841.28,768.256,SR
+787,Nancy Thomas,UAE,9/27/2024,Tablet,Electronics,563.72,1,563.72,112.744,SR
+788,Christopher Goodwin,Oman,5/17/2025,Face Cream,Beauty,491.15,2,982.3,196.46,SR
+789,Samuel Ruiz,Kuwait,4/26/2025,Cookbook,Books,302.1,3,906.3,181.26,SR
+790,William Gonzalez,Oman,11/10/2024,Bag,Fashion,303.36,5,1516.8,303.36,SR
+791,Kenneth Snyder,Qatar,11/9/2024,Biography,Books,703.56,3,2110.68,422.136,SR
+792,Charles Dyer,Saudi Arabia,9/17/2024,Biography,Books,410.88,3,1232.64,246.528,SR
+793,Jason Miller,Oman,11/3/2024,Dress,Fashion,155.15,2,310.3,62.06,SR
+794,Tammie Blake,Saudi Arabia,1/14/2025,Jeans,Fashion,498.69,1,498.69,99.738,SR
+795,Anne Valdez,Oman,8/2/2024,Camera,Electronics,304.91,2,609.82,121.964,SR
+796,Logan Richardson,Qatar,3/10/2025,Headphones,Electronics,329.71,4,1318.84,263.768,SR
+797,Brian Mercer,Saudi Arabia,8/24/2024,Jeans,Fashion,693.81,4,2775.24,555.048,SR
+798,Christine Wood MD,Bahrain,8/24/2024,Smartphone,Electronics,914.29,4,3657.16,731.432,SR
+799,Daniel Nelson,Saudi Arabia,12/10/2024,Shampoo,Beauty,637.27,2,1274.54,254.908,SR
+800,Lawrence Faulkner,UAE,3/29/2025,Cookbook,Books,725.1,4,2900.4,580.08,SR
+801,Albert Campbell,UAE,8/12/2024,Dress,Fashion,688.83,2,1377.66,275.532,SR
+802,Amy Jacobs,Bahrain,3/12/2025,Face Cream,Beauty,325.42,3,976.26,195.252,SR
+803,Michelle Coleman,Bahrain,3/3/2025,Camera,Electronics,708.18,1,708.18,141.636,SR
+804,John Camacho,Qatar,3/18/2025,Shampoo,Beauty,106.72,3,320.16,64.032,SR
+805,Patricia Cantrell,Bahrain,9/30/2024,Tablet,Electronics,26.64,1,26.64,5.328,SR
+806,Christopher Knapp,Kuwait,2/18/2025,Children Book,Books,175.2,5,876,175.2,SR
+807,Dr. Meghan Beck,UAE,4/25/2025,Dress,Fashion,274.8,2,549.6,109.92,SR
+808,Alexander Crawford,Oman,1/17/2025,Cookbook,Books,639.65,4,2558.6,511.72,SR
+809,Mike Vasquez,Bahrain,1/22/2025,Dining Table,Home,208.91,4,835.64,167.128,SR
+810,Miss Jeanne Bennett DVM,Oman,4/16/2025,Children Book,Books,325.23,5,1626.15,325.23,SR
+811,Matthew Porter,UAE,6/24/2025,Sofa,Home,140.78,5,703.9,140.78,SR
+812,Cody Savage DDS,Kuwait,6/19/2025,Bag,Fashion,974.45,3,2923.35,584.67,SR
+813,Matthew Harris,UAE,12/12/2024,Children Book,Books,337.43,2,674.86,134.972,SR
+814,Jasmine Jones,Qatar,7/21/2024,Sneakers,Fashion,614.96,4,2459.84,491.968,SR
+815,David Parker,UAE,11/4/2024,Bag,Fashion,748.49,1,748.49,149.698,SR
+816,Jessica Acevedo,UAE,8/22/2024,Camera,Electronics,613.76,3,1841.28,368.256,SR
+817,Mrs. Samantha Jones,UAE,11/8/2024,Hair Dryer,Beauty,856,3,2568,513.6,SR
+818,Mary Chang,Kuwait,11/14/2024,Cookbook,Books,979.93,4,3919.72,783.944,SR
+819,Michelle Myers,Kuwait,7/24/2024,Novel,Books,814.54,5,4072.7,814.54,SR
+820,Tonya Livingston,Qatar,1/22/2025,Jeans,Fashion,639.84,5,3199.2,639.84,SR
+821,Larry Bush,Saudi Arabia,3/11/2025,Cookbook,Books,772,3,2316,463.2,SR
+822,Jessica Bailey,Saudi Arabia,2/21/2025,Novel,Books,91.91,3,275.73,55.146,SR
+823,Angela Sloan,Bahrain,1/6/2025,Face Cream,Beauty,269.05,5,1345.25,269.05,SR
+824,Mark Ramirez,Saudi Arabia,12/30/2024,Curtains,Home,804.45,1,804.45,160.89,SR
+825,Joe Guerrero,Qatar,10/17/2024,Cookbook,Books,685.31,1,685.31,137.062,SR
+826,Matthew Little,Oman,2/9/2025,Cookbook,Books,324.51,3,973.53,194.706,SR
+827,Eric Stokes,Saudi Arabia,10/3/2024,Children Book,Books,400.56,5,2002.8,400.56,SR
+828,James Lewis,UAE,5/5/2025,Biography,Books,517.13,3,1551.39,310.278,SR
+829,Emily Simon,Qatar,7/13/2024,Bag,Fashion,990.66,2,1981.32,396.264,SR
+830,Michelle Collins,Qatar,1/20/2025,Face Cream,Beauty,540.9,4,2163.6,432.72,SR
+831,Michael Taylor,Kuwait,11/2/2024,Smartphone,Electronics,239.93,2,479.86,95.972,SR
+832,Ruth Figueroa,Kuwait,8/29/2024,Bag,Fashion,505.69,4,2022.76,404.552,SR
+833,Daniel Snyder,UAE,9/18/2024,Lamp,Home,797.08,2,1594.16,318.832,SR
+834,Timothy Solomon,Bahrain,9/10/2024,Novel,Books,688.21,2,1376.42,275.284,SR
+835,Renee Jordan,Oman,4/17/2025,Tablet,Electronics,674.35,4,2697.4,539.48,SR
+836,Eric Williams,Oman,4/3/2025,Sneakers,Fashion,148.67,4,594.68,118.936,SR
+837,Kaitlyn Wood,Bahrain,9/12/2024,Sofa,Home,796.16,5,3980.8,796.16,SR
+838,Daniel Davis,Oman,3/16/2025,Lamp,Home,622.48,3,1867.44,373.488,SR
+839,Amber Morton,Oman,6/23/2025,Camera,Electronics,244,4,976,195.2,SR
+840,Charlene Martin,Bahrain,9/22/2024,Jeans,Fashion,636.89,4,2547.56,509.512,SR
+841,Christopher Garcia,Bahrain,5/21/2025,Camera,Electronics,608.82,2,1217.64,243.528,SR
+842,Lauren Davidson,Kuwait,8/7/2024,Dress,Fashion,747.16,1,747.16,149.432,SR
+843,Jared Humphrey,Bahrain,5/2/2025,Cookbook,Books,917.6,4,3670.4,734.08,SR
+844,Arthur Smith,Kuwait,4/20/2025,Lipstick,Beauty,130.33,5,651.65,130.33,SR
+845,Lisa Chavez,Oman,10/19/2024,Jeans,Fashion,968.45,2,1936.9,387.38,SR
+846,Thomas Garcia,UAE,12/12/2024,Sofa,Home,252.98,3,758.94,151.788,SR
+847,Tracy Harrison,Saudi Arabia,3/21/2025,Dress,Fashion,967.35,5,4836.75,967.35,SR
+848,Julie Young,Kuwait,5/22/2025,Lipstick,Beauty,18.47,2,36.94,7.388,SR
+849,Angela Bennett,Bahrain,3/9/2025,Smartphone,Electronics,512.35,4,2049.4,409.88,SR
+850,April Everett,Kuwait,6/14/2025,Smartphone,Electronics,885.16,1,885.16,177.032,SR
+851,Philip Diaz,Qatar,2/5/2025,Children Book,Books,788.93,3,2366.79,473.358,SR
+852,Laurie Roth,Kuwait,11/13/2024,Jeans,Fashion,229.13,1,229.13,45.826,SR
+853,Latasha David,Qatar,7/7/2024,Cookbook,Books,170.56,5,852.8,170.56,SR
+854,Rebecca Walton,Qatar,7/31/2024,Laptop,Electronics,541.34,1,541.34,108.268,SR
+855,Richard Watson,Saudi Arabia,12/31/2024,Biography,Books,831.32,3,2493.96,498.792,SR
+856,Timothy Brock,UAE,2/28/2025,Biography,Books,221.53,4,886.12,177.224,SR
+857,Nicholas Johnson,Saudi Arabia,11/1/2024,Curtains,Home,223.97,3,671.91,134.382,SR
+858,Nathaniel Reyes MD,Saudi Arabia,1/4/2025,Tablet,Electronics,694.95,5,3474.75,694.95,SR
+859,Dr. Carlos Nelson,Bahrain,12/9/2024,Tablet,Electronics,923.01,4,3692.04,738.408,SR
+860,Jacob Davidson,Bahrain,4/21/2025,Tablet,Electronics,453.67,3,1361.01,272.202,SR
+861,Jessica Cook,UAE,8/17/2024,Hair Dryer,Beauty,186.19,1,186.19,37.238,SR
+862,James Hernandez,Oman,4/9/2025,Lipstick,Beauty,346.67,2,693.34,138.668,SR
+863,Emma Oconnor,Qatar,5/23/2025,Perfume,Beauty,223.06,2,446.12,89.224,SR
+864,Christian Smith,Oman,6/14/2025,Tablet,Electronics,669.46,3,2008.38,401.676,SR
+865,Brian White,Kuwait,8/12/2024,Camera,Electronics,517.36,1,517.36,103.472,SR
+866,Drew Brown,Oman,11/2/2024,Chair,Home,930.03,4,3720.12,744.024,SR
+867,Angela Brown,Qatar,7/10/2024,Chair,Home,126.37,3,379.11,75.822,SR
+868,Alexandra Sullivan,Oman,9/9/2024,Chair,Home,588.76,3,1766.28,353.256,SR
+869,Richard Mclaughlin,UAE,8/13/2024,Dress,Fashion,447.41,3,1342.23,268.446,SR
+870,James Sullivan,UAE,11/13/2024,Face Cream,Beauty,614.38,2,1228.76,245.752,SR
+871,Kevin Barrett,Bahrain,7/3/2024,Sneakers,Fashion,162.33,1,162.33,32.466,SR
+872,Jennifer Brown,Bahrain,6/22/2025,Headphones,Electronics,565.52,2,1131.04,226.208,SR
+873,William Lamb,Bahrain,4/22/2025,Camera,Electronics,314.2,4,1256.8,251.36,SR
+874,Brenda Jackson,Kuwait,6/9/2025,Novel,Books,853.2,4,3412.8,682.56,SR
+875,Frank Washington,Kuwait,4/14/2025,Novel,Books,461.28,3,1383.84,276.768,SR
+876,Andrew Wilson,Qatar,2/13/2025,Jeans,Fashion,108.01,3,324.03,64.806,SR
+877,Nathaniel Taylor,Qatar,6/22/2025,Lipstick,Beauty,65.87,5,329.35,65.87,SR
+878,Ashley Meadows,Bahrain,2/14/2025,Chair,Home,547.21,1,547.21,109.442,SR
+879,Michelle Bradley,Bahrain,10/1/2024,Travel Guide,Books,919.48,5,4597.4,919.48,SR
+880,Daniel Rosales,Saudi Arabia,10/11/2024,Smartphone,Electronics,336.58,2,673.16,134.632,SR
+881,Steven Hunt,Oman,1/6/2025,Shampoo,Beauty,786.39,3,2359.17,471.834,SR
+882,Emily Cooley,UAE,4/2/2025,Curtains,Home,463.64,2,927.28,185.456,SR
+883,Marie Robles,Bahrain,5/29/2025,Shampoo,Beauty,658.05,2,1316.1,263.22,SR
+884,Lindsey Armstrong MD,Bahrain,10/8/2024,Travel Guide,Books,201.04,2,402.08,80.416,SR
+885,Cynthia Davis,Saudi Arabia,9/14/2024,Bag,Fashion,654.16,4,2616.64,523.328,SR
+886,Stephanie Miller,Oman,3/20/2025,Curtains,Home,350.02,3,1050.06,210.012,SR
+887,Brandon Wiggins,Qatar,10/7/2024,Lipstick,Beauty,641.29,3,1923.87,384.774,SR
+888,Crystal Terry,Qatar,7/2/2024,Laptop,Electronics,44.22,4,176.88,35.376,SR
+889,Jeremy Schwartz,Bahrain,11/5/2024,Travel Guide,Books,436.93,3,1310.79,262.158,SR
+890,Bruce Long,Bahrain,10/23/2024,Sneakers,Fashion,78.44,2,156.88,31.376,SR
+891,Garrett Calhoun,Bahrain,12/23/2024,Tablet,Electronics,864.38,5,4321.9,864.38,SR
+892,Matthew Bell,Kuwait,6/7/2025,Chair,Home,689.48,1,689.48,137.896,SR
+893,Collin Hanson,Saudi Arabia,11/7/2024,Hair Dryer,Beauty,92.22,3,276.66,55.332,SR
+894,Matthew Castillo,Oman,4/25/2025,Curtains,Home,244.78,3,734.34,146.868,SR
+895,Daniel White,Oman,4/27/2025,Perfume,Beauty,856.34,4,3425.36,685.072,SR
+896,Jesus Murphy,UAE,5/21/2025,Shampoo,Beauty,199.65,2,399.3,79.86,SR
+897,Daniel Johns,Saudi Arabia,11/15/2024,Hair Dryer,Beauty,382.22,5,1911.1,382.22,SR
+898,Alan Brown,Bahrain,1/7/2025,Laptop,Electronics,814.53,4,3258.12,651.624,SR
+899,Bradley Thomas,Kuwait,1/30/2025,Children Book,Books,973.56,3,2920.68,584.136,SR
+900,Jonathan Ford,Kuwait,9/30/2024,Dress,Fashion,879.09,4,3516.36,703.272,SR
+901,Michael Morris,UAE,10/13/2024,Cookbook,Books,822.65,5,4113.25,822.65,SR
+902,James Wilson,Bahrain,6/19/2025,Travel Guide,Books,654.23,4,2616.92,523.384,SR
+903,Daniel Hart,Qatar,10/3/2024,Dress,Fashion,153.91,2,307.82,61.564,SR
+904,Jennifer Martin,Qatar,12/20/2024,Laptop,Electronics,506.44,2,1012.88,202.576,SR
+905,Carol Mitchell,Kuwait,7/5/2024,Jeans,Fashion,232.56,1,232.56,46.512,SR
+906,Charlene Morgan,Qatar,7/7/2024,Smartphone,Electronics,275.79,4,1103.16,220.632,SR
+907,Michelle Young,UAE,7/29/2024,Dress,Fashion,543.81,4,2175.24,435.048,SR
+908,Brandon Caldwell,Bahrain,8/2/2024,Tablet,Electronics,548.75,1,548.75,109.75,SR
+909,Cameron Howe,UAE,1/23/2025,Travel Guide,Books,854.33,4,3417.32,683.464,SR
+910,Jeanette Ramirez,UAE,8/23/2024,Bag,Fashion,895.65,2,1791.3,358.26,SR
+911,Matthew Welch,Saudi Arabia,8/24/2024,Headphones,Electronics,261.48,5,1307.4,261.48,SR
+912,Lauren Mendez,UAE,10/12/2024,Sofa,Home,269.97,1,269.97,53.994,SR
+913,Charles Johnson,Kuwait,2/28/2025,Novel,Books,547.26,3,1641.78,328.356,SR
+914,Ashley Morales,Saudi Arabia,7/29/2024,Novel,Books,967.96,2,1935.92,387.184,SR
+915,James Adams,Oman,12/23/2024,Children Book,Books,23.17,5,115.85,23.17,SR
+916,Elizabeth Long,Saudi Arabia,11/9/2024,Smartphone,Electronics,114.01,1,114.01,22.802,SR
+917,Margaret Wallace,Oman,4/5/2025,Curtains,Home,342.68,4,1370.72,274.144,SR
+918,Megan Parrish,Bahrain,10/24/2024,Tablet,Electronics,935.4,4,3741.6,748.32,SR
+919,Sheila Graham,Oman,5/6/2025,Cookbook,Books,499.68,4,1998.72,399.744,SR
+920,Patricia Morris,UAE,5/2/2025,Sofa,Home,68.53,4,274.12,54.824,SR
+921,Michael Yu,UAE,12/3/2024,Face Cream,Beauty,674.29,5,3371.45,674.29,SR
+922,Joseph Diaz,Qatar,7/19/2024,Headphones,Electronics,830.8,2,1661.6,332.32,SR
+923,William Jones,Kuwait,7/5/2024,Biography,Books,95.78,3,287.34,57.468,SR
+924,Dawn Daniels,UAE,7/19/2024,Cookbook,Books,30.41,4,121.64,24.328,SR
+925,Steven Leach,Oman,5/15/2025,Novel,Books,716.12,4,2864.48,572.896,SR
+926,Nathan Johnson,Oman,6/12/2025,Travel Guide,Books,401.21,2,802.42,160.484,SR
+927,Aaron Carter,UAE,2/1/2025,Children Book,Books,427.21,2,854.42,170.884,SR
+928,Alan Scott,Qatar,9/15/2024,Jeans,Fashion,61.69,4,246.76,49.352,SR
+929,Maria Robertson,UAE,12/23/2024,Sofa,Home,559.79,3,1679.37,335.874,SR
+930,Heather Chan,UAE,7/12/2024,Headphones,Electronics,795.72,3,2387.16,477.432,SR
+931,Charles Taylor,Bahrain,1/13/2025,Laptop,Electronics,621.06,4,2484.24,496.848,SR
+932,Christina Jones,Saudi Arabia,4/4/2025,Dress,Fashion,596.25,1,596.25,119.25,SR
+933,Stephanie Bailey,UAE,5/11/2025,Smartphone,Electronics,356.06,5,1780.3,356.06,SR
+934,Chad Webb,UAE,10/30/2024,Bag,Fashion,857.16,2,1714.32,342.864,SR
+935,Megan Schneider,Bahrain,7/28/2024,Shampoo,Beauty,980.41,2,1960.82,392.164,SR
+936,Jason Ortiz,Kuwait,4/27/2025,Sofa,Home,720.77,3,2162.31,432.462,SR
+937,Jack Carter,UAE,1/15/2025,Bag,Fashion,128.93,1,128.93,25.786,SR
+938,Angela Baker MD,Kuwait,4/26/2025,Shampoo,Beauty,830.36,3,2491.08,498.216,SR
+939,Michael Thompson,Bahrain,7/14/2024,Lamp,Home,562.59,4,2250.36,450.072,SR
+940,Gerald Morrison,Saudi Arabia,11/18/2024,Cookbook,Books,814.76,2,1629.52,325.904,SR
+941,James Mercer,UAE,5/14/2025,Laptop,Electronics,711.18,5,3555.9,711.18,SR
+942,Angela Hudson,Kuwait,3/22/2025,Chair,Home,559.84,5,2799.2,559.84,SR
+943,Marisa Davis,UAE,4/27/2025,Face Cream,Beauty,499.41,3,1498.23,299.646,SR
+944,Teresa Crane,Kuwait,9/14/2024,Shampoo,Beauty,675.21,4,2700.84,540.168,SR
+945,Brittany Wright,Kuwait,4/12/2025,Tablet,Electronics,681.73,4,2726.92,545.384,SR
+946,Marcus Alvarez,Oman,12/29/2024,Perfume,Beauty,645.79,5,3228.95,645.79,SR
+947,Thomas Stone,Oman,12/6/2024,Headphones,Electronics,795.74,4,3182.96,636.592,SR
+948,Brad Freeman,Qatar,6/5/2025,Dress,Fashion,275.66,3,826.98,165.396,SR
+949,Jennifer Miller,Bahrain,7/24/2024,Biography,Books,993.35,3,2980.05,596.01,SR
+950,Christopher Butler,Kuwait,2/27/2025,Dress,Fashion,866.68,3,2600.04,520.008,SR
+951,Dawn Chung,Oman,2/21/2025,T-shirt,Fashion,379.59,1,379.59,75.918,SR
+952,Jeffrey Jackson,Bahrain,4/28/2025,Shampoo,Beauty,290.06,1,290.06,58.012,SR
+953,David Henderson,Oman,12/3/2024,Travel Guide,Books,955.93,4,3823.72,764.744,SR
+954,Samuel Stanley,Kuwait,11/3/2024,Jeans,Fashion,732.43,2,1464.86,292.972,SR
+955,Christopher Delgado,Kuwait,4/18/2025,Perfume,Beauty,88.35,5,441.75,88.35,SR
+956,Andrew Rivera,UAE,3/13/2025,Camera,Electronics,50.5,3,151.5,30.3,SR
+957,Maria Chang,Oman,8/25/2024,Travel Guide,Books,600.81,4,2403.24,480.648,SR
+958,Whitney Bender,Kuwait,3/12/2025,Dining Table,Home,659.57,4,2638.28,527.656,SR
+959,Tiffany Randolph,Saudi Arabia,12/28/2024,Shampoo,Beauty,621.19,1,621.19,124.238,SR
+960,Alexander Buckley,Qatar,7/16/2024,Bag,Fashion,278.99,2,557.98,111.596,SR
+961,Tyler Barnes,Kuwait,11/21/2024,Dining Table,Home,498.02,4,1992.08,398.416,SR
+962,Timothy Jones,UAE,10/7/2024,Dining Table,Home,264.76,5,1323.8,264.76,SR
+963,Joseph Brooks,Saudi Arabia,2/17/2025,Shampoo,Beauty,818.54,1,818.54,163.708,SR
+964,Bradley Russo,Saudi Arabia,5/15/2025,Chair,Home,283.28,5,1416.4,283.28,SR
+965,Jeffrey Campbell,Kuwait,6/21/2025,Camera,Electronics,778.97,1,778.97,155.794,SR
+966,Scott Martin,Qatar,1/20/2025,Dining Table,Home,397.1,5,1985.5,397.1,SR
+967,Carlos Wilson,Kuwait,4/26/2025,Sneakers,Fashion,545.2,1,545.2,109.04,SR
+968,Paul Kelley,Qatar,1/22/2025,Sneakers,Fashion,378.84,2,757.68,151.536,SR
+969,Gerald Rivera,Kuwait,3/8/2025,Dress,Fashion,708.62,1,708.62,141.724,SR
+970,Allison Morris,UAE,3/4/2025,Biography,Books,99.2,3,297.6,59.52,SR
+971,Deborah Mills,Saudi Arabia,9/16/2024,Shampoo,Beauty,550.23,1,550.23,110.046,SR
+972,Jonathan Mcmahon,Qatar,10/23/2024,Lamp,Home,199.46,3,598.38,119.676,SR
+973,Richard Jennings,Kuwait,1/12/2025,Travel Guide,Books,403.06,2,806.12,161.224,SR
+974,Sandra Melton,Bahrain,5/18/2025,Camera,Electronics,443.95,1,443.95,88.79,SR
+975,Krystal Hartman,Saudi Arabia,3/21/2025,Face Cream,Beauty,541.87,4,2167.48,433.496,SR
+976,Brian Mendoza,Qatar,10/6/2024,Face Cream,Beauty,88.45,1,88.45,17.69,SR
+977,James Kirby,Bahrain,2/21/2025,Face Cream,Beauty,779.63,2,1559.26,311.852,SR
+978,Clifford Holder,Saudi Arabia,10/2/2024,Cookbook,Books,355.8,2,711.6,142.32,SR
+979,Larry Santiago,Kuwait,9/17/2024,Sneakers,Fashion,263.89,4,1055.56,211.112,SR
+980,Ronald Thomas,UAE,3/27/2025,Lamp,Home,354.3,2,708.6,141.72,SR
+981,Hannah Newton,Saudi Arabia,2/17/2025,Cookbook,Books,972.29,5,4861.45,972.29,SR
+982,Mrs. Mary Gray MD,Saudi Arabia,1/19/2025,Travel Guide,Books,661.74,5,3308.7,661.74,SR
+983,Steven Young,Saudi Arabia,7/24/2024,Sneakers,Fashion,940.26,5,4701.3,940.26,SR
+984,Jessica Mckinney,Bahrain,5/6/2025,Camera,Electronics,516.93,4,2067.72,413.544,SR
+985,Brian Young Jr.,Oman,4/15/2025,T-shirt,Fashion,637.25,2,1274.5,254.9,SR
+986,Timothy Stephens,Kuwait,12/27/2024,Smartphone,Electronics,407.23,5,2036.15,407.23,SR
+987,Michael Allen,Kuwait,3/25/2025,Novel,Books,909.23,2,1818.46,363.692,SR
+988,Jonathan Nelson,Oman,10/22/2024,Sofa,Home,19.65,3,58.95,11.79,SR
+989,Nicholas Thompson,Oman,5/3/2025,Sofa,Home,596.08,3,1788.24,357.648,SR
+990,Joseph Mccormick,Bahrain,5/3/2025,Jeans,Fashion,739.92,2,1479.84,295.968,SR
+991,Anna Strickland,Qatar,7/16/2024,Headphones,Electronics,832.34,5,4161.7,832.34,SR
+992,Devin Shepherd,UAE,8/1/2024,Camera,Electronics,389.34,1,389.34,77.868,SR
+993,Dawn Rodriguez,Oman,1/20/2025,Headphones,Electronics,753.57,1,753.57,150.714,SR
+994,Krista Day,Kuwait,4/22/2025,Lipstick,Beauty,15.33,3,45.99,9.198,SR
+995,Michele Williams,Kuwait,5/17/2025,Dining Table,Home,650.1,4,2600.4,520.08,SR
+996,Daniel Mendoza DVM,Qatar,3/10/2025,Curtains,Home,647.18,5,3235.9,647.18,SR
+997,Catherine Norman,Kuwait,2/12/2025,Jeans,Fashion,617.64,4,2470.56,494.112,SR
+998,Emily Garcia,Saudi Arabia,12/7/2024,Sofa,Home,395.64,5,1978.2,395.64,SR
+999,Monica Pham,Oman,2/12/2025,Sneakers,Fashion,310.65,3,931.95,186.39,SR
+1000,David Charles,Oman,5/25/2025,Novel,Books,903.67,1,903.67,180.734,SR
